@@ -1,0 +1,44 @@
+# Credentials and local configuration
+.env
+.env.*
+!.env.example
+**/.env
+**/.env.*
+!**/.env.example
+*.pem
+*.key
+id_rsa
+id_ed25519
+
+# Generated account inventory / private repo audit snapshots (kept locally, not published)
+github_repo_inventory.json
+github_repos.txt
+github_codespaces.json
+repo_review/
+
+# Dependencies and generated outputs
+**/node_modules/
+**/.venv/
+**/venv/
+**/__pycache__/
+**/.pytest_cache/
+**/.ruff_cache/
+**/.mypy_cache/
+**/dist/
+**/build/
+**/coverage/
+**/.next/
+**/.cache/
+**/target/
+
+# User-provided footage and working renders are not auto-published
+clips/incoming/*
+clips/working/*
+clips/final/*
+!clips/incoming/.gitkeep
+!clips/working/.gitkeep
+!clips/final/.gitkeep
+
+# Workspace-only artifacts
+.DS_Store
+Thumbs.db

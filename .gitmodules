@@ -1,0 +1,16 @@
+[submodule "previous-video-editing"]
+	path = previous-video-editing
+	url = https://github.com/swathigampa354-ship-it/vertical-video-edits-2026-10-16.git
+	branch = main
+[submodule "reference-projects/my-video"]
+	path = reference-projects/my-video
+	url = https://github.com/swathigampa354-ship-it/my-video.git
+	branch = master
+[submodule "reference-projects/trypost-brag-video"]
+	path = reference-projects/trypost-brag-video
+	url = https://github.com/swathigampa354-ship-it/trypost-brag-video.git
+	branch = master
+[submodule "reference-projects/awesome-opus5-5-videos"]
+	path = reference-projects/awesome-opus5-5-videos
+	url = https://github.com/swathigampa354-ship-it/awesome-opus5-5-videos.git
+	branch = main
