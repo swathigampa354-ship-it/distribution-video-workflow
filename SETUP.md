@@ -12,10 +12,14 @@ Useful skill bundles are copied into the persistent, non-hidden `skills/` folder
 
 Incoming footage: `clips/incoming/` (or use an uploaded attachment path directly). Working edits: `clips/working/`. Review-ready exports: `clips/final/`.
 
-## GitHub review status
+## GitHub review and workspace status
 
-The supplied GitHub credential was used for read-only account inventory/API review only and was not written into the workspace. 100 repositories were visible; no Codespaces were listed. No remote repository was modified or deleted. No Codespace was created or started.
+The supplied GitHub credential was used for account inventory and authorized repo creation/push; it was not written into the workspace. 100 repositories were visible. No existing repository was modified or deleted. No Codespaces existed initially; after the user approved it, a new Codespace was created for this workspace.
+
+The public repository excludes generated account-wide inventory and private repository-name snapshots. The user's selected reference repositories are linked as submodules. `podcli` is excluded and must not be used.
 
 ## Environment status
 
-No render dependencies or credentials have been installed. This workspace has Node.js v20.20.2; Hypit needs Node.js 22.15+ and ReelMimic 22.18+. FFmpeg/ffprobe were not found. ReelMimic additionally needs Python 3.10+, Chrome and Claude Code or Codex; it makes original 2D animation, not live-action podcast edits. Video-use needs Python dependencies, FFmpeg/ffprobe and (by default) an ElevenLabs Scribe API key for word-level transcription. No key has been added and no paid call has been made. **Do not use podcli** (explicit user instruction). Avoid paid or publishing operations without explicit user approval.
+**GitHub Codespace** (`distribution-video-workflow`, basicLinux32gb): Node.js v24.22.2, Python 3.14.2, FFmpeg/ffprobe 6.1.1 installed; four approved reference submodules initialized. It is ready for code/video tasks. The Codespace does not have video-use's Python dependencies or a transcription provider key installed. No paid API calls have been made.
+
+**Arena local workspace:** Node.js v20.20.2; FFmpeg/ffprobe were not found. Hypit requires Node.js 22.15+ and ReelMimic 22.18+. ReelMimic additionally needs Chrome and Claude Code or Codex; it makes original 2D animation, not live-action podcast edits. Avoid paid or publishing operations without explicit user approval.

@@ -28,7 +28,7 @@ Use only campaign-supplied official A-roll and approved B-roll. No synthetic spe
 
 ## Environment status at setup
 
-This is a prepared source/skills workspace, not a verified render installation. Node 20.20.2 is below the Hypit/ReelMimic requirements; FFmpeg/ffprobe and provider credentials were not installed. Check `SETUP.md` before attempting a render. The tools' third-party installers have not been run.
+The GitHub Codespace for this repo has Node 24, Python 3.14 and FFmpeg/ffprobe installed. The local Arena sandbox differs; see `SETUP.md`. Transcription dependencies/provider credentials are not set up, and no third-party installers or paid services have been run. Check `SETUP.md` before rendering.
 
 ## Git submodules
 
