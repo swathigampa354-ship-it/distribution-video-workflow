@@ -1,0 +1,1522 @@
+[
+  {
+    "repo": "swathigampa354-ship-it/my-video",
+    "description": null,
+    "private": false,
+    "branch": "master",
+    "url": "https://github.com/swathigampa354-ship-it/my-video",
+    "stars": 0,
+    "language": "HTML",
+    "file_count": 89,
+    "key_files": [
+      {
+        "path": ".gitignore",
+        "size": 30
+      },
+      {
+        "path": "brag-plan.md",
+        "size": 11201
+      },
+      {
+        "path": "composition-brief.md",
+        "size": 7941
+      },
+      {
+        "path": "composition/AGENTS.md",
+        "size": 7895
+      },
+      {
+        "path": "composition/CLAUDE.md",
+        "size": 7895
+      },
+      {
+        "path": "composition/package.json",
+        "size": 296
+      },
+      {
+        "path": "render.log",
+        "size": 50071
+      },
+      {
+        "path": "render2.log",
+        "size": 69658
+      },
+      {
+        "path": "video.mp4",
+        "size": 2568955
+      }
+    ]
+  },
+  {
+    "repo": "swathigampa354-ship-it/trypost-brag-video",
+    "description": "Video composition work: plan, brief, Hyperframes project, render log",
+    "private": false,
+    "branch": "master",
+    "url": "https://github.com/swathigampa354-ship-it/trypost-brag-video",
+    "stars": 0,
+    "language": "HTML",
+    "file_count": 86,
+    "key_files": [
+      {
+        "path": ".gitignore",
+        "size": 30
+      },
+      {
+        "path": "brag-plan.md",
+        "size": 11201
+      },
+      {
+        "path": "composition-brief.md",
+        "size": 7941
+      },
+      {
+        "path": "composition/AGENTS.md",
+        "size": 7895
+      },
+      {
+        "path": "composition/CLAUDE.md",
+        "size": 7895
+      },
+      {
+        "path": "composition/package.json",
+        "size": 296
+      },
+      {
+        "path": "render.log",
+        "size": 50071
+      }
+    ]
+  },
+  {
+    "repo": "swathigampa354-ship-it/trypost",
+    "description": "Open-source social media scheduler built for AI agents and the teams behind them. Create, schedule and publish posts to every network through MCP or the REST API, or write them yourself in a composer your team will love.",
+    "private": false,
+    "branch": "main",
+    "url": "https://github.com/swathigampa354-ship-it/trypost",
+    "stars": 0,
+    "language": null,
+    "file_count": 4670,
+    "key_files": [
+      {
+        "path": ".agents/skills/ai-sdk-development/SKILL.md",
+        "size": 13913
+      },
+      {
+        "path": ".agents/skills/cashier-stripe-development/SKILL.md",
+        "size": 4929
+      },
+      {
+        "path": ".agents/skills/configure-nightwatch/SKILL.md",
+        "size": 10672
+      },
+      {
+        "path": ".agents/skills/configuring-horizon/SKILL.md",
+        "size": 3589
+      },
+      {
+        "path": ".agents/skills/copywriting/SKILL.md",
+        "size": 8400
+      },
+      {
+        "path": ".agents/skills/humanizer/SKILL.md",
+        "size": 27796
+      },
+      {
+        "path": ".agents/skills/in-app-copy/SKILL.md",
+        "size": 11796
+      },
+      {
+        "path": ".agents/skills/inertia-vue-development/SKILL.md",
+        "size": 13658
+      },
+      {
+        "path": ".agents/skills/infer-conventions/SKILL.md",
+        "size": 12507
+      },
+      {
+        "path": ".agents/skills/laravel-best-practices/SKILL.md",
+        "size": 4644
+      },
+      {
+        "path": ".agents/skills/mcp-development/SKILL.md",
+        "size": 3798
+      },
+      {
+        "path": ".agents/skills/medialibrary-development/SKILL.md",
+        "size": 3520
+      },
+      {
+        "path": ".agents/skills/passport-development/SKILL.md",
+        "size": 7463
+      },
+      {
+        "path": ".agents/skills/socialite-development/SKILL.md",
+        "size": 4668
+      },
+      {
+        "path": ".agents/skills/tailwindcss-development/SKILL.md",
+        "size": 3651
+      },
+      {
+        "path": ".agents/skills/testing-best-practices/SKILL.md",
+        "size": 4395
+      },
+      {
+        "path": ".agents/skills/upgrade-laravel-v13/SKILL.md",
+        "size": 16020
+      },
+      {
+        "path": ".agents/skills/wayfinder-development/SKILL.md",
+        "size": 2513
+      },
+      {
+        "path": ".claude/skills/ai-sdk-development/SKILL.md",
+        "size": 13913
+      },
+      {
+        "path": ".claude/skills/cashier-stripe-development/SKILL.md",
+        "size": 4929
+      },
+      {
+        "path": ".claude/skills/configure-nightwatch/SKILL.md",
+        "size": 10672
+      },
+      {
+        "path": ".claude/skills/configuring-horizon/SKILL.md",
+        "size": 3589
+      },
+      {
+        "path": ".claude/skills/humanizer/SKILL.md",
+        "size": 27802
+      },
+      {
+        "path": ".claude/skills/in-app-copy/SKILL.md",
+        "size": 11796
+      },
+      {
+        "path": ".claude/skills/inertia-vue-development/SKILL.md",
+        "size": 13658
+      },
+      {
+        "path": ".claude/skills/infer-conventions/SKILL.md",
+        "size": 12507
+      },
+      {
+        "path": ".claude/skills/laravel-best-practices/SKILL.md",
+        "size": 4644
+      },
+      {
+        "path": ".claude/skills/mcp-development/SKILL.md",
+        "size": 3798
+      },
+      {
+        "path": ".claude/skills/medialibrary-development/SKILL.md",
+        "size": 3520
+      },
+      {
+        "path": ".claude/skills/passport-development/SKILL.md",
+        "size": 7463
+      },
+      {
+        "path": ".claude/skills/socialite-development/SKILL.md",
+        "size": 4668
+      },
+      {
+        "path": ".claude/skills/tailwindcss-development/SKILL.md",
+        "size": 3651
+      },
+      {
+        "path": ".claude/skills/testing-best-practices/SKILL.md",
+        "size": 4395
+      },
+      {
+        "path": ".claude/skills/upgrade-laravel-v13/SKILL.md",
+        "size": 16020
+      },
+      {
+        "path": ".claude/skills/wayfinder-development/SKILL.md",
+        "size": 2513
+      },
+      {
+        "path": ".cursor/skills/ai-sdk-development/SKILL.md",
+        "size": 13913
+      },
+      {
+        "path": ".cursor/skills/cashier-stripe-development/SKILL.md",
+        "size": 4929
+      },
+      {
+        "path": ".cursor/skills/configure-nightwatch/SKILL.md",
+        "size": 10672
+      },
+      {
+        "path": ".cursor/skills/configuring-horizon/SKILL.md",
+        "size": 3589
+      },
+      {
+        "path": ".cursor/skills/copywriting/SKILL.md",
+        "size": 8400
+      },
+      {
+        "path": ".cursor/skills/humanizer/SKILL.md",
+        "size": 28727
+      },
+      {
+        "path": ".cursor/skills/in-app-copy/SKILL.md",
+        "size": 11796
+      },
+      {
+        "path": ".cursor/skills/inertia-vue-development/SKILL.md",
+        "size": 13658
+      },
+      {
+        "path": ".cursor/skills/infer-conventions/SKILL.md",
+        "size": 12507
+      },
+      {
+        "path": ".cursor/skills/laravel-best-practices/SKILL.md",
+        "size": 4644
+      },
+      {
+        "path": ".cursor/skills/mcp-development/SKILL.md",
+        "size": 3798
+      },
+      {
+        "path": ".cursor/skills/passport-development/SKILL.md",
+        "size": 7463
+      },
+      {
+        "path": ".cursor/skills/socialite-development/SKILL.md",
+        "size": 4668
+      },
+      {
+        "path": ".cursor/skills/tailwindcss-development/SKILL.md",
+        "size": 3651
+      },
+      {
+        "path": ".cursor/skills/testing-best-practices/SKILL.md",
+        "size": 4395
+      },
+      {
+        "path": ".cursor/skills/wayfinder-development/SKILL.md",
+        "size": 2513
+      },
+      {
+        "path": ".dockerignore",
+        "size": 1290
+      },
+      {
+        "path": ".editorconfig",
+        "size": 252
+      },
+      {
+        "path": ".env.ci",
+        "size": 1513
+      },
+      {
+        "path": ".env.example",
+        "size": 14180
+      },
+      {
+        "path": ".env.testing",
+        "size": 1008
+      },
+      {
+        "path": ".gitattributes",
+        "size": 210
+      },
+      {
+        "path": ".gitignore",
+        "size": 493
+      },
+      {
+        "path": ".mcp.json",
+        "size": 705
+      },
+      {
+        "path": ".prettierignore",
+        "size": 52
+      },
+      {
+        "path": ".prettierrc",
+        "size": 547
+      },
+      {
+        "path": "AGENTS.md",
+        "size": 147158
+      },
+      {
+        "path": "ANALYTIC.md",
+        "size": 5734
+      },
+      {
+        "path": "Caddyfile",
+        "size": 266
+      },
+      {
+        "path": "DEPLOYMENT.md",
+        "size": 8805
+      },
+      {
+        "path": "GEMINI.md",
+        "size": 23725
+      },
+      {
+        "path": "LICENSE.md",
+        "size": 34020
+      },
+      {
+        "path": "MEDIA_INTEGRATIONS_SETUP.md",
+        "size": 22836
+      },
+      {
+        "path": "README.md",
+        "size": 8051
+      },
+      {
+        "path": "artisan",
+        "size": 425
+      },
+      {
+        "path": "boost.json",
+        "size": 655
+      },
+      {
+        "path": "components.json",
+        "size": 491
+      },
+      {
+        "path": "compose.override.yaml.example",
+        "size": 1543
+      },
+      {
+        "path": "compose.prod.yaml",
+        "size": 6338
+      },
+      {
+        "path": "compose.yaml",
+        "size": 2595
+      },
+      {
+        "path": "composer.json",
+        "size": 5182
+      },
+      {
+        "path": "composer.lock",
+        "size": 584449
+      },
+      {
+        "path": "docker/Dockerfile",
+        "size": 8084
+      },
+      {
+        "path": "eslint.config.ts",
+        "size": 2061
+      },
+      {
+        "path": "maizzle/README.md",
+        "size": 1638
+      },
+      {
+        "path": "maizzle/package.json",
+        "size": 232
+      },
+      {
+        "path": "package-lock.json",
+        "size": 394883
+      },
+      {
+        "path": "package.json",
+        "size": 2626
+      },
+      {
+        "path": "phpunit.xml",
+        "size": 1390
+      },
+      {
+        "path": "pint.json",
+        "size": 87
+      },
+      {
+        "path": "tsconfig.json",
+        "size": 12737
+      },
+      {
+        "path": "vite.config.ts",
+        "size": 843
+      }
+    ],
+    "readme_text": "<p align=\"center\">\n  <img src=\"public/images/trypost/logo-dark.png\" alt=\"TryPost\" width=\"190\">\n</p>\n\n<h1 align=\"center\">The open-source social media scheduler built for AI agents</h1>\n\n<p align=\"center\">\n  Let your AI agents create, schedule and publish posts to every network through MCP or the REST API,<br/>\n  or write them yourself in a composer your team will love.\n</p>\n\n<p align=\"center\">\n  <a href=\"https://github.com/trypostit/trypost/stargazers\"><img src=\"https://img.shields.io/github/stars/trypostit/trypost?style=flat-square&color=7c3aed&labelColor=0a0a0a\" alt=\"Stars\"></a>\n  <a href=\"https://github.com/trypostit/trypost/blob/main/LICENSE.md\"><img src=\"https://img.shields.io/badge/license-AGPL--3.0-7c3aed?style=flat-square&labelColor=0a0a0a\" alt=\"License\"></a>\n  <a href=\"https://github.com/trypostit/trypost/releases\"><img src=\"https://img.shields.io/github/v/release/trypostit/trypost?style=flat-square&color=7c3aed&labelColor=0a0a0a\" alt=\"Release\"></a>\n  <a href=\"https://trypost.it/discord\"><img src=\"https://img.shields.io/badge/discord-join-7c3aed?style=flat-square&labelColor=0a0a0a&logo=discord&logoColor=white\" alt=\"Discord\"></a>\n</p>\n\n<p align=\"center\">\n  <a href=\"https://trypost.it\"><b>Try TryPost Cloud</b></a> &nbsp;&bull;&nbsp;\n  <a href=\"https://docs.trypost.it\">Documentation</a> &nbsp;&bull;&nbsp;\n  <a href=\"https://trypost.it/discord\">Discord</a> &nbsp;&bull;&nbsp;\n  <a href=\"https://github.com/trypostit/trypost/discussions\">Community</a>\n</p>\n\n<p align=\"center\">\n  <img src=\"public/images/github/calendar.png\" alt=\"TryPost calendar with a month of posts across eight channels\" width=\"100%\">\n</p>\n\n---\n\n## Two ways to post, one place to run it\n\nMost posts on TryPost are no longer written by hand. They come from AI agents and scripts. The rest come from teams who still want a great editor, a calendar and someone to approve before anything goes live. TryPost is built for both.\n\n### \ud83e\udd16 For AI agents: MCP and REST API\n\nConnect Claude, ChatGPT, Cursor or any MCP client and ask in plain words:\n\n> *\"Write a week of posts about our spring tours for Instagram, LinkedIn and X, add them to each channel's queue and show me the Instagram insights for last month.\"*\n\n- **MCP server** with 80+ tools: posts, media, queues, ideas, labels, signatures, analytics and more. [Connect your assistant &rarr;](https://docs.trypost.it/ai/introduction)\n- **REST API** for your own scripts and automations: create posts in batch, upload media, read metrics, receive webhooks. [API reference &rarr;](https://docs.trypost.it/api-reference/introduction)\n- Everything the app can do, your agent can do. Same rules, same limits, same approvals.\n\n### \u270d\ufe0f For teams: the web app\n\n- **Composer** that writes once and adapts per network, with a live preview of every post and an AI assistant to rephrase, shorten or expand.\n- **Calendar and queues**: drop posts on each channel's posting times, drag to reschedule, see the whole month at a glance.\n- **Approvals**: members who need a review send posts for approval, and admins approve or reject in one click. Built for agencies running many brands.\n- **Workspaces** to keep every client or brand apart, with its own channels, members and settings.\n\n## A closer look\n\n<p align=\"center\">\n  <img src=\"public/images/github/queue.png\" alt=\"A channel queue with scheduled posts and labels\" width=\"100%\">\n  <br/><sub><b>Queues.</b> Set each channel's posting times once. New posts take the next free slot.</sub>\n</p>\n\n<p align=\"center\">\n  <img src=\"public/images/github/ideas.png\" alt=\"Ideas board in dark mode with cards in To Do, In Progress and Done\" width=\"100%\">\n  <br/><sub><b>Ideas board, in dark mode.</b> Collect ideas, move them through your stages and turn them into posts.</sub>\n</p>\n\n<p align=\"center\">\n  <img src=\"public/images/github/insights.png\" alt=\"Channel insights compared with the previous period\" width=\"100%\">\n  <br/><sub><b>Insights.</b> Followers, reach and engagement per channel and per post, compared with the previous period.</sub>\n</p>\n\n## Supported networks\n\nEvery post is published natively through each network's official API. No reminders, no \"finish in the mobile app\".\n\n<p align=\"center\">\n  <img src=\"public/images/github/networks/instagram.png\" width=\"44\" alt=\"Instagram\" title=\"Instagram\">&nbsp;\n  <img src=\"public/images/github/networks/tiktok.png\" width=\"44\" alt=\"TikTok\" title=\"TikTok\">&nbsp;\n  <img src=\"public/images/github/networks/linkedin.png\" width=\"44\" alt=\"LinkedIn\" title=\"LinkedIn\">&nbsp;\n  <img src=\"public/images/github/networks/x.png\" width=\"44\" alt=\"X\" title=\"X\">&nbsp;\n  <img src=\"public/images/github/networks/youtube.png\" width=\"44\" alt=\"YouTube\" title=\"YouTube\">&nbsp;\n  <img src=\"public/images/github/networks/facebook.png\" width=\"44\" alt=\"Facebook\" title=\"Facebook\">&nbsp;\n  <img src=\"public/images/github/networks/threads.png\" width=\"44\" alt=\"Threads\" title=\"Threads\">&nbsp;\n  <img src=\"public/images/github/networks/bluesky.png\" width=\"44\" alt=\"Bluesky\" title=\"Bluesky\">&nbsp;\n  <img src=\"public/images/github/networks/pinterest.png\" width=\"44\" alt=\"Pinterest\" title=\"Pinterest\">&nbsp;\n  <img src=\"public/images/github/networks/mastodon.png\" width=\"44\" alt=\"Mastodon\" title=\"Mastodon\">&nbsp;\n  <img src=\"public/images/github/networks/google_business.png\" width=\"44\" alt=\"Google Business\" title=\"Google Business\">&nbsp;\n  <img src=\"public/images/github/networks/telegram.png\" width=\"44\" alt=\"Telegram\" title=\"Telegram\">&nbsp;\n  <img src=\"public/images/github/networks/discord.png\" width=\"44\" alt=\"Discord\" title=\"Discord\">&nbsp;\n</p>\n\n<p align=\"center\"><sub>Instagram &middot; TikTok &middot; LinkedIn &middot; X &middot; YouTube &middot; Facebook &middot; Threads &middot; Bluesky &middot; Pinterest &middot; Mastodon &middot; Google Business &middot; Telegram &middot; Discord</sub></p>\n\n## Everything else you get\n\n- **Repurpose**: videos you post outside TryPost are copied to your other networks automatically.\n- **Media sources**: upload from your device, Unsplash, Google Drive, Google Photos and Canva.\n- **Signatures and labels**: reusable hashtag and CTA blocks, color-coded labels to filter the calendar.\n- **Notes**: leave feedback on a post and the rest of the team gets an email.\n- **Webhooks**: get notified when a post is created, scheduled, published, fails or is deleted.\n- **16 languages**: English, Portuguese, Spanish, French, German, Italian, Dutch, Polish, Greek, Ukrainian, Russian, Turkish, Arabic, Japanese, Korean and Chinese.\n\n## Open source, with every feature\n\nTryPost is open source under AGPL-3.0. You can self-host it on your own servers and keep your posts, drafts and metrics on your infrastructure. The self-hosted version has every feature of TryPost Cloud: no paid tiers, no locked features.\n\nIf you would rather not run servers, [TryPost Cloud](https://trypost.it) is the same product, hosted and updated for you.\n\n## Built by Paulo Castellano\n\n<img src=\"public/images/github/paulo.png\" width=\"96\" align=\"left\" alt=\"Paulo Castellano\">\n\nHi, I'm Paulo, and I build TryPost in the open. Follow me for what is coming next to TryPost.\n\n<a href=\"https://www.linkedin.com/in/paulocastellano\"><img src=\"public/images/github/follow-linkedin.png\" height=\"44\" alt=\"Follow Paulo on LinkedIn\"></a>&nbsp;\n<a href=\"https://x.com/paulocastellano\"><img src=\"public/images/github/follow-x.png\" height=\"44\" alt=\"Follow Paulo on X\"></a>\n\n<br clear=\"left\"/>\n\n## Community and contributing\n\n- **Questions or ideas?** Join the [Discord](https://trypost.it/discord) or open a [Discussion](https://github.com/trypostit/trypost/discussions).\n- **Found a bug?** Open an [issue](https://github.com/trypostit/trypost/issues).\n- **Want to help?** Pull requests of any size are welcome.\n\nShort on time? A \u2b50 is the best way to help. It puts TryPost in front of more people.\n\n## License\n\n[GNU Affero General Public License v3.0](LICENSE.md). Use, modify, fork, self-host and redistribute, including commercially. If you run a modified version as a network service, make your changes available to its users (AGPL \u00a713).\n"
+  },
+  {
+    "repo": "swathigampa354-ship-it/media-grabber",
+    "description": "Media Grabber - a free, open-source video downloader, audio downloader, and tab recorder extension for Chrome.",
+    "private": false,
+    "branch": "main",
+    "url": "https://github.com/swathigampa354-ship-it/media-grabber",
+    "stars": 0,
+    "language": null,
+    "file_count": 37,
+    "key_files": [
+      {
+        "path": ".gitattributes",
+        "size": 129
+      },
+      {
+        "path": ".gitignore",
+        "size": 329
+      },
+      {
+        "path": "CHANGELOG.md",
+        "size": 3607
+      },
+      {
+        "path": "CONTRIBUTING.md",
+        "size": 1330
+      },
+      {
+        "path": "LICENSE",
+        "size": 1063
+      },
+      {
+        "path": "PRIVACY.md",
+        "size": 1972
+      },
+      {
+        "path": "README.md",
+        "size": 12714
+      },
+      {
+        "path": "manifest.json",
+        "size": 1375
+      }
+    ],
+    "readme_text": "<div align=\"center\">\n\n<img src=\"assets/logo.svg\" alt=\"Media Grabber\" width=\"560\" />\n\n### A free, open-source video and audio downloader for Chrome \u2014 find and save media from any web page\n\n<a href=\"https://chromewebstore.google.com/detail/ddabljeecabankgggocbidpkhgiggjeo\">\n  <img src=\"https://img.shields.io/badge/Chrome%20Web%20Store-Install%20Now-4f46e5?style=for-the-badge&logo=googlechrome&logoColor=white\" alt=\"Install from the Chrome Web Store\" />\n</a>\n\n<br /><br />\n\n[![Chrome Web Store Version](https://img.shields.io/chrome-web-store/v/ddabljeecabankgggocbidpkhgiggjeo?label=version)](https://chromewebstore.google.com/detail/ddabljeecabankgggocbidpkhgiggjeo)\n[![Chrome Web Store Users](https://img.shields.io/chrome-web-store/users/ddabljeecabankgggocbidpkhgiggjeo?label=users)](https://chromewebstore.google.com/detail/ddabljeecabankgggocbidpkhgiggjeo)\n[![Chrome Web Store Rating](https://img.shields.io/chrome-web-store/rating/ddabljeecabankgggocbidpkhgiggjeo?label=rating)](https://chromewebstore.google.com/detail/ddabljeecabankgggocbidpkhgiggjeo)\n[![License: MIT](https://img.shields.io/badge/License-MIT-4f46e5.svg)](LICENSE)\n[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-22c55e.svg)](CONTRIBUTING.md)\n[![Stars](https://img.shields.io/github/stars/riponcm/media-grabber?style=social)](https://github.com/riponcm/media-grabber/stargazers)\n\n</div>\n\n---\n\n**Media Grabber is a free, open-source video downloader, audio downloader and tab recorder\nextension for Chrome.** It detects the real media source behind any web page so you can save\naudio and video in one click \u2014 even when the site offers no download button.\n\nBuilt as a dependency-free Manifest V3 extension, it also reads adaptive **HLS and DASH**\nstreams (`.m3u8`, `.mpd`) to list every available quality, saves HLS streams directly by\njoining their segments, and includes a **browser audio recorder** for media that is streamed\nin memory and cannot be saved as a file.\n\n_An open-source project by **[Matily](https://matily.org)** \u2014 free, non-profit software for everyone._\n\n> If this project saves you time, please consider giving it a star. It takes one click, costs you\n> nothing, and is the single best way to help other people discover it.\n\n## Demo\n\nA quick run through detection, one-click download, and the built-in recorder:\n\n<div align=\"center\">\n  <img src=\"assets/demo.gif\" alt=\"Media Grabber in action \u2014 detect, download, and record\" width=\"720\" />\n</div>\n\n## Screenshots\n\n<div align=\"center\">\n\n**Find and download media from any page** \u2014 the toolbar popup lists every audio and video\nsource it finds, with format, size and a one-click download.\n\n<img src=\"assets/screenshot-detect.png\" alt=\"Video downloader popup listing detected MP4 and HLS media with quality and file size\" width=\"820\" />\n\n<br />\n\n**Every quality, ranked best first** \u2014 Media Grabber reads the stream manifest and lists each\nrendition, so you are never stuck with the low-bitrate copy the player happened to load.\n\n<img src=\"assets/screenshot-quality.png\" alt=\"Media Grabber listing 1080p and 720p renditions of the same video\" width=\"820\" />\n\n<br />\n\n**Record tab audio, microphone, or both** \u2014 a docked side panel with a live waveform,\npause and resume, and WebM or WAV output.\n\n<img src=\"assets/screenshot-recorder.png\" alt=\"Browser audio recorder extension capturing tab audio with a live waveform\" width=\"820\" />\n\n<br />\n\n**Save streams without extra tools** \u2014 HLS segments are fetched and joined into a single\nfile, with no re-encoding and no quality loss.\n\n<img src=\"assets/screenshot-streams.png\" alt=\"HLS stream downloader progress showing segments being joined into one file\" width=\"820\" />\n\n</div>\n\n## Features\n\n- **Network detection.** Watches response content types and catches media files\n  (`mp3`, `m4a`, `aac`, `ogg`, `wav`, `flac`, `mp4`, `webm`, `mov`, and more).\n- **Page detection.** Scans the DOM for `<audio>` and `<video>` elements, including the source\n  that is actually playing.\n- **One-click downloads.** Saves direct files through the browser's own download manager.\n- **Quality selection.** Reads the stream manifest and lists every rendition it offers\n  (1080p, 720p, and so on), ranked highest first, so you never end up with the low-bitrate\n  copy an adaptive player happened to load.\n- **Stream support.** Detects HLS and DASH playlists (`.m3u8`, `.mpd`). HLS streams can be\n  saved directly \u2014 segments are fetched and joined into one file with no re-encoding \u2014 and a\n  copy-paste FFmpeg command is offered for everything else.\n- **Right-click downloads.** A context-menu entry lists the media found on the page so you can\n  save it without opening the popup.\n- **Audio recorder.** A docked **side panel** captures **tab audio, microphone, or both\n  mixed** \u2014 ideal for streams that can't be saved directly (in-memory MediaSource / blob).\n  Live **waveform**, **pause/resume**, preview before saving, and **WebM** (Opus) or **WAV**\n  (lossless) output \u2014 both native, no dependencies.\n- **Per-tab badge.** Shows how many media items were found on the current tab.\n- **Private by design.** No accounts, no tracking, no external servers. Everything runs locally.\n\n## Capabilities and limits\n\n| Media type | Detect | Download |\n| --- | :---: | :---: |\n| Direct files (`mp3`, `mp4`, `webm`, ...) | Yes | Yes, one click |\n| HTML5 `<audio>` / `<video>` with a URL | Yes | Yes |\n| HLS streams (`m3u8`) | Yes | Yes \u2014 segments joined into one file |\n| DASH streams (`mpd`) | Yes | Via the generated FFmpeg command |\n| In-page MediaSource / blob streams | Yes | Use the built-in **recorder** |\n| DRM-protected media | No | No \u2014 encrypted, and not bypassed |\n| YouTube | No | Not supported, per Chrome Web Store policy |\n\n## Installation\n\n### From the Chrome Web Store (recommended)\n\n**[\u279c Install Media Grabber](https://chromewebstore.google.com/detail/ddabljeecabankgggocbidpkhgiggjeo)** \u2014 one click, with automatic updates.\n\n### From source (for developers)\n\nNo build step required:\n\n1. Download or clone this repository.\n2. Open Chrome and go to `chrome://extensions`.\n3. Enable **Developer mode** using the toggle in the top-right corner.\n4. Click **Load unpacked** and select the project folder.\n5. Pin **Media Grabber** from the extensions menu.\n\n## Usage\n\n1. Open a page and start playing the audio or video.\n2. Click the Media Grabber toolbar icon to see detected media.\n3. Press **Download** for files, or **Copy FFmpeg** for streams and run the command:\n   ```bash\n   ffmpeg -i \"STREAM_URL\" -c copy \"output.mp4\"\n   ```\n4. Use the re-scan button if media loads late.\n\n## Frequently asked questions\n\n### How do I download a video from a website that has no download button?\n\nOpen the page, start the video, then click the Media Grabber icon. The extension watches what\nthe page loads, so any playable audio or video appears in the list with a **Download** button.\nIf the media loads late, press re-scan.\n\n### Why does my downloaded video have no sound?\n\nBecause many sites use adaptive streaming, which delivers picture and sound as **two separate\nfiles**. Downloading only the video track gives you a silent file. Download both entries, then\nuse the **Merge video + audio** button, which copies this command to your clipboard:\n\n```bash\nffmpeg -i \"video.mp4\" -i \"audio.m4a\" -c copy \"output.mp4\"\n```\n\n`-c copy` merges without re-encoding, so it is instant and lossless.\n\n### Why is my downloaded video low quality?\n\nAdaptive streams start at a low bitrate and increase as the connection allows, so a naive\ndownload captures whatever rendition the player fetched first. Media Grabber reads the stream\nmanifest and lists every available quality, ranked highest first \u2014 pick the top entry.\n\n### Several files are listed. Which one should I download?\n\nThe list is sorted best-first, and each row shows its format (MP4, WEBM, M4A, HLS, DASH) and\nfile size. The top entry is normally the one you want; a much smaller entry alongside it is\nusually the separate audio track.\n\n### What are HLS and DASH, and how do I save them?\n\nThey are adaptive streaming formats that split a video into many small segments described by a\nplaylist (`.m3u8` for HLS, `.mpd` for DASH). Media Grabber can save HLS directly: press\n**Save** and it downloads every segment and joins them into a single file with no re-encoding.\nDASH streams come with a ready-to-run FFmpeg command instead.\n\n### Can I record audio that is playing in a browser tab?\n\nYes. Open the recorder side panel and choose **tab audio**, **microphone**, or **both mixed**.\nYou get a live waveform, pause and resume, and a preview before saving as WebM (Opus) or WAV\n(lossless). The audio keeps playing normally while it is captured, so recording is the reliable\noption for media that is streamed in memory and cannot be saved as a file.\n\n### Does Media Grabber work on YouTube?\n\nNo. Chrome Web Store policy does not permit extensions that download YouTube content, so\nYouTube is deliberately excluded and the extension does not operate on it.\n\n### Can it download Netflix, Spotify, or other DRM-protected media?\n\nNo. That content is encrypted with DRM, which Media Grabber does not attempt to bypass. This is\nboth a technical and a deliberate design limit.\n\n### Does the extension collect any of my data?\n\nNo. There are no accounts, no analytics, and no external servers. Detection, downloading and\nrecording all happen locally in your browser, and the source code is public in this repository.\n\n### Is Media Grabber free?\n\nYes \u2014 free and open source under the MIT licence, with no paid tier, no ads and no upsells.\nIt is built by [Matily](https://matily.org), a non-profit software studio.\n\n### Do I need FFmpeg installed?\n\nNot for most tasks. Direct files and HLS streams are saved by the extension itself. FFmpeg is\nonly needed to merge separate video and audio tracks, or to save a DASH stream \u2014 and the exact\ncommand is generated and copied for you.\n\n## How it works\n\n```\n                 +------------------------+\n  network \u2500\u2500\u2500\u2500\u2500\u25ba |   background worker    |\n  responses      |  (webRequest sniffer)  | \u2500\u2500\u2510\n                 +------------------------+   \u2502   per-tab,\n                                              \u251c\u2500\u25ba de-duplicated  \u2500\u2500\u25ba popup UI\n                 +------------------------+   \u2502   media list\n  page DOM \u2500\u2500\u2500\u2500\u25ba |     content script     | \u2500\u2500\u2518\n  <audio>/<video>|  (element scanner)     |\n                 +------------------------+\n```\n\n- `src/background.js` observes `webRequest` responses and classifies them by content type.\n- `src/content.js` scans the page for media elements and reports them.\n- `src/popup.js` renders the combined list and triggers downloads.\n\n## Project structure\n\n```\nmedia-grabber/\n\u251c\u2500 manifest.json          Extension manifest (Manifest V3)\n\u251c\u2500 src/\n\u2502  \u251c\u2500 background.js        Network sniffer and per-tab media store\n\u2502  \u251c\u2500 content.js           DOM media scanner\n\u2502  \u251c\u2500 popup.html           Toolbar UI\n\u2502  \u251c\u2500 popup.css            Toolbar styles\n\u2502  \u251c\u2500 popup.js             Toolbar logic\n\u2502  \u251c\u2500 recorder.html        Recorder window UI\n\u2502  \u251c\u2500 recorder.css         Recorder window styles\n\u2502  \u2514\u2500 recorder.js          Tab/mic capture, mixing, WebM/WAV encoding\n\u251c\u2500 icons/                  Toolbar icons (16, 32, 48, 128)\n\u2514\u2500 assets/                 Logo and brand assets\n```\n\n## Responsible use\n\nUse Media Grabber only for media you have the right to download, such as your own files,\npublic-domain or Creative Commons content, or media you are licensed to keep. Respect the terms\nof service of the sites you visit and all applicable copyright law. The extension deliberately\ndoes not attempt to bypass DRM.\n\n## Changelog\n\nRelease notes for every version live in [CHANGELOG.md](CHANGELOG.md).\n\n## Contributing\n\nContributions are welcome. Please read [CONTRIBUTING.md](CONTRIBUTING.md) and open an issue or\npull request. If you like the direction of the project, a star is a great way to show support.\n\n## Topics\n\nchrome-extension \u00b7 video-downloader \u00b7 audio-downloader \u00b7 media-downloader \u00b7 video-download-helper \u00b7\naudio-recorder \u00b7 tab-audio-recorder \u00b7 screen-audio-recorder \u00b7 recorder-extension \u00b7\nhls-downloader \u00b7 m3u8-downloader \u00b7 dash \u00b7 mpd \u00b7 stream-downloader \u00b7 ffmpeg \u00b7\nmanifest-v3 \u00b7 browser-extension \u00b7 javascript \u00b7 privacy-first \u00b7 open-source\n\n## License\n\nReleased under the [MIT License](LICENSE). \u00a9 Matily.\n\n<div align=\"center\">\n\nIf Media Grabber is useful to you, consider starring the repository.\n\n[![Star this repo](https://img.shields.io/github/stars/riponcm/media-grabber?style=for-the-badge&logo=github&color=4f46e5)](https://github.com/riponcm/media-grabber)\n\n</div>\n"
+  },
+  {
+    "repo": "swathigampa354-ship-it/Handy",
+    "description": "A free, open source, and extensible speech-to-text application that works completely offline.",
+    "private": false,
+    "branch": "main",
+    "url": "https://github.com/swathigampa354-ship-it/Handy",
+    "stars": 0,
+    "language": null,
+    "file_count": 586,
+    "key_files": [
+      {
+        "path": ".gitattributes",
+        "size": 41
+      },
+      {
+        "path": ".gitignore",
+        "size": 468
+      },
+      {
+        "path": ".prettierignore",
+        "size": 229
+      },
+      {
+        "path": ".prettierrc",
+        "size": 24
+      },
+      {
+        "path": "AGENTS.md",
+        "size": 9924
+      },
+      {
+        "path": "BUILD.md",
+        "size": 9007
+      },
+      {
+        "path": "CLAUDE.md",
+        "size": 16
+      },
+      {
+        "path": "CONTRIBUTING.md",
+        "size": 11173
+      },
+      {
+        "path": "CONTRIBUTING_TRANSLATIONS.md",
+        "size": 4565
+      },
+      {
+        "path": "LICENSE",
+        "size": 1064
+      },
+      {
+        "path": "README.md",
+        "size": 25234
+      },
+      {
+        "path": "bun.lock",
+        "size": 106433
+      },
+      {
+        "path": "docs/troubleshooting/ubuntu-26-04-gnome-wayland/README.md",
+        "size": 2449
+      },
+      {
+        "path": "eslint.config.js",
+        "size": 820
+      },
+      {
+        "path": "flake.lock",
+        "size": 3534
+      },
+      {
+        "path": "flake.nix",
+        "size": 8639
+      },
+      {
+        "path": "index.html",
+        "size": 303
+      },
+      {
+        "path": "package.json",
+        "size": 2620
+      },
+      {
+        "path": "playwright.config.ts",
+        "size": 596
+      },
+      {
+        "path": "src/content/release-notes/README.md",
+        "size": 743
+      },
+      {
+        "path": "tsconfig.json",
+        "size": 779
+      },
+      {
+        "path": "tsconfig.node.json",
+        "size": 213
+      },
+      {
+        "path": "vite.config.ts",
+        "size": 1260
+      }
+    ],
+    "readme_text": "# Handy\n\n[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/WVBeWsNXK4)\n\n**A free, open source, and extensible speech-to-text application that works completely offline.**\n\nHandy is a cross-platform desktop application that provides simple, privacy-focused speech transcription. Press a shortcut, speak, and have your words appear in any text field. This happens on your own computer without sending any information to the cloud.\n\n## Why Handy?\n\nHandy was created to fill the gap for a truly open source, extensible speech-to-text tool. As stated on [handy.computer](https://handy.computer):\n\n- **Free**: Accessibility tooling belongs in everyone's hands, not behind a paywall\n- **Open Source**: Together we can build further. Extend Handy for yourself and contribute to something bigger\n- **Private**: Your voice stays on your computer. Get transcriptions without sending audio to the cloud\n- **Simple**: One tool, one job. Transcribe what you say and put it into a text box\n\n## How It Works\n\n1. **Press** a configurable keyboard shortcut: hold it to record and release to stop, or tap it to toggle recording on and off (Hold-only and Toggle-only modes are also available)\n2. **Speak** your words while the shortcut is active\n3. **Release** and Handy processes your speech using Whisper\n4. **Get** your transcribed text pasted directly into whatever app you're using\n\nThe process is entirely local:\n\n- Silence is filtered using VAD (Voice Activity Detection) with Silero\n- Transcription uses your choice of models:\n  - **Whisper models** (Small/Medium/Turbo/Large) with GPU acceleration when available\n  - **Parakeet V3** - CPU-optimized model with excellent performance and automatic language detection\n- Works on Windows, macOS, and Linux\n\n## Quick Start\n\n### Installation\n\n1. Download the latest release from the [releases page](https://github.com/cjpais/Handy/releases) or the [website](https://handy.computer)\n   - **macOS**: Also available via [Homebrew cask](https://formulae.brew.sh/cask/handy): `brew install --cask handy`\n   - **Windows**: Also available via [winget](https://github.com/microsoft/winget-pkgs): `winget install cjpais.Handy` \\\n     **Note:** The Homebrew cask and winget package are not maintained by the Handy developers.\n   - **Debian/Ubuntu**: Install the downloaded `.deb` with APT so required dependencies are installed automatically:\n     ```bash\n     sudo apt install ./Handy_*.deb\n     ```\n     Do not use `dpkg -i` unless the dependencies are already installed. If you already used it, run `sudo apt --fix-broken install`.\n2. Install the application\n3. Launch Handy and grant necessary system permissions (microphone, accessibility)\n4. Configure your preferred keyboard shortcuts in Settings\n5. Start transcribing!\n\n### Development Setup\n\nFor detailed build instructions including platform-specific requirements, see [BUILD.md](BUILD.md).\n\n## Sponsors\n\n<div align=\"center\">\n  We're grateful for the support of our sponsors who help make Handy possible:\n  <br><br>\n  <a href=\"https://wordcab.com\">\n    <img src=\"sponsor-images/wordcab.png\" alt=\"Wordcab\" width=\"120\" height=\"120\">\n  </a>\n  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n  <a href=\"https://github.com/epicenter-so/epicenter\">\n    <img src=\"sponsor-images/epicenter.png\" alt=\"Epicenter\" width=\"120\" height=\"120\">\n  </a>\n  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n  <a href=\"https://boltai.com?utm_source=handy\">\n    <img src=\"sponsor-images/boltai.jpg\" alt=\"Bolt AI\" width=\"120\" height=\"120\">\n  </a>\n  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\n  <a href=\"https://cantydigital.com.au/\">\n    <img src=\"sponsor-images/cantydigital.png\" alt=\"Canty Digital\" width=\"120\" height=\"120\">\n  </a>\n</div>\n\n## Integrations\n\n<a href=\"https://www.raycast.com/mattiacolombomc/handy\" title=\"Install Handy Raycast Extension\"><img src=\"https://www.raycast.com/mattiacolombomc/handy/install_button@2x.png?v=1.1\" height=\"64\" style=\"height: 64px;\" alt=\"Install handy Raycast Extension\" /></a>\n\nControl Handy from [Raycast](https://www.raycast.com) \u2014 start/stop recording, browse transcript history, manage dictionary, switch models and languages.\n\n[Source](https://github.com/mattiacolombomc/raycast-handy) \u00b7 by [@mattiacolombomc](https://github.com/mattiacolombomc)\n\n### Debug Mode\n\nHandy includes an advanced debug mode for development and troubleshooting. Access it by pressing:\n\n- **macOS**: `Cmd+Shift+D`\n- **Windows/Linux**: `Ctrl+Shift+D`\n\n### CLI Parameters\n\nHandy supports command-line flags for controlling a running instance and customizing startup behavior. These work on all platforms (macOS, Windows, Linux). Largely this is a beta feature.\n\n**Remote control flags** (sent to an already-running instance via the single-instance plugin):\n\n```bash\nhandy --toggle-transcription    # Toggle recording on/off\nhandy --toggle-post-process     # Toggle recording with post-processing on/off\nhandy --cancel                  # Cancel the current operation\n```\n\n**Startup flags:**\n\n```bash\nhandy --start-hidden            # Start without showing the main window\nhandy --no-tray                 # Start without the system tray icon\nhandy --debug                   # Enable debug mode with verbose logging\nhandy --help                    # Show all available flags\n```\n\nFlags can be combined for autostart scenarios:\n\n```bash\nhandy --start-hidden --no-tray\n```\n\n> **macOS tip:** When Handy is installed as an app bundle, invoke the binary directly:\n>\n> ```bash\n> /Applications/Handy.app/Contents/MacOS/Handy --toggle-transcription\n> ```\n\n## Known Issues & Current Limitations\n\nThis project is actively being developed and has some [known issues](https://github.com/cjpais/Handy/issues). We believe in transparency about the current state:\n\n### Bluetooth Headset Microphones (macOS)\n\nUsing a Bluetooth headset microphone on macOS may temporarily reduce playback quality or volume while recording because Bluetooth switches to bidirectional audio. Keep your headphones as the output device and select your Mac's built-in or an external microphone in Handy to avoid this.\n\n### fn and Globe Key Shortcuts (macOS)\n\nShortcuts that include the `fn` (Globe) key **only work on Apple keyboards** \u2014 your Mac's built-in keyboard or an Apple external keyboard. They will never trigger on a third-party keyboard, even while it is connected to the same Mac.\n\nThis is a hardware limitation rather than a Handy bug. `fn` is not part of the standard USB HID keyboard specification: Apple reports it through a vendor-specific usage that macOS honors only from Apple devices, while third-party keyboards handle their `Fn` key entirely in firmware and send nothing to the computer. There is no event for Handy to listen for.\n\nIf you switch between a MacBook keyboard and an external one, pick a shortcut built from standard modifiers (`ctrl`, `option`, `shift`, `command`) or a regular key instead.\n\n### Linux Notes\n\n**Text Input Tools:**\n\nFor reliable text input on Linux, install the appropriate tool for your display server:\n\n| Display Server | Recommended Tool | Install Command                                    |\n| -------------- | ---------------- | -------------------------------------------------- |\n| X11            | `xdotool`        | `sudo apt install xdotool`                         |\n| Wayland        | `wtype`          | `sudo apt install wtype`                           |\n| Both           | `dotool`         | `sudo apt install dotool` (requires `input` group) |\n\n- **X11**: Install `xdotool` for both direct typing and clipboard paste shortcuts\n- **Ubuntu 26.04**: Has Wayland display server by default. `wtype` does not work, you need to install `ydotool` and configure systemd as described [here](https://github.com/cjpais/Handy/pull/557#issuecomment-3781249267).\n- **Wayland**: Install `wtype` (preferred) or `dotool` for text input to work correctly\n- **dotool setup**: Requires adding your user to the `input` group: `sudo usermod -aG input $USER` (then log out and back in)\n\nWithout these tools, Handy falls back to enigo which may have limited compatibility, especially on Wayland.\n\n**Wayland Support (Linux):**\n\n- Limited support for Wayland display server\n- Requires [`wtype`](https://github.com/atx/wtype) or [`dotool`](https://sr.ht/~geb/dotool/) for text input to work correctly (see [Linux Notes](#linux-notes) below for installation)\n\n**Other Notes:**\n\n- **Runtime library dependency (`libgtk-layer-shell.so.0`)**:\n  - Handy links `gtk-layer-shell` on Linux. If startup fails with `error while loading shared libraries: libgtk-layer-shell.so.0`, install the runtime package for your distro:\n\n    | Distro        | Package to install    | Example command                        |\n    | ------------- | --------------------- | -------------------------------------- |\n    | Ubuntu/Debian | `libgtk-layer-shell0` | `sudo apt install libgtk-layer-shell0` |\n    | Fedora/RHEL   | `gtk-layer-shell`     | `sudo dnf install gtk-layer-shell`     |\n    | Arch Linux    | `gtk-layer-shell`     | `sudo pacman -S gtk-layer-shell`       |\n\n  - For building from source on Ubuntu/Debian, you may also need `libgtk-layer-shell-dev`.\n\n- The recording overlay is disabled by default on Linux (`Overlay Position: None`) because certain compositors treat it as the active window. When the overlay is visible it can steal focus, which prevents Handy from pasting back into the application that triggered transcription. If you enable the overlay anyway, be aware that clipboard-based pasting might fail or end up in the wrong window.\n- Handy disables the WebKit DMA-BUF renderer by default on Linux, but preserves explicit `WEBKIT_DISABLE_DMABUF_RENDERER` values. For rendering workarounds, see [Troubleshooting \u2192 Linux Startup Crashes or Instability](#linux-startup-crashes-or-instability).\n- If Handy fails to start reliably on Linux, see [Troubleshooting \u2192 Linux Startup Crashes or Instability](#linux-startup-crashes-or-instability).\n- **Global keyboard shortcuts (Wayland):** On Wayland, system-level shortcuts must be configured through your desktop environment or window manager. Use the [CLI flags](#cli-parameters) as the command for your custom shortcut.\n\n  **GNOME:**\n  1. Open **Settings > Keyboard > Keyboard Shortcuts > Custom Shortcuts**\n  2. Click the **+** button to add a new shortcut\n  3. Set the **Name** to `Toggle Handy Transcription`\n  4. Set the **Command** to `handy --toggle-transcription`\n  5. Click **Set Shortcut** and press your desired key combination (e.g., `Super+O`)\n\n  **KDE Plasma:**\n  1. Open **System Settings > Shortcuts > Custom Shortcuts**\n  2. Click **Edit > New > Global Shortcut > Command/URL**\n  3. Name it `Toggle Handy Transcription`\n  4. In the **Trigger** tab, set your desired key combination\n  5. In the **Action** tab, set the command to `handy --toggle-transcription`\n\n  **Sway / i3:**\n\n  Add to your config file (`~/.config/sway/config` or `~/.config/i3/config`):\n\n  ```ini\n  bindsym $mod+o exec handy --toggle-transcription\n  ```\n\n  **Hyprland:**\n\n  Add to your config file (`~/.config/hypr/hyprland.conf`):\n\n  ```ini\n  bind = $mainMod, O, exec, handy --toggle-transcription\n  ```\n\n- You can also trigger Handy externally via Unix signals or the CLI flags, which lets Wayland window managers or other hotkey daemons keep ownership of keybindings:\n\n  | Action                                    | Trigger                                                  |\n  | ----------------------------------------- | -------------------------------------------------------- |\n  | Toggle transcription                      | `pkill -USR2 -n handy` or `handy --toggle-transcription` |\n  | Toggle transcription with post-processing | `handy --toggle-post-process`                            |\n\n  Example Sway config:\n\n  ```ini\n  bindsym $mod+o exec pkill -USR2 -n handy\n  bindsym $mod+p exec handy --toggle-post-process\n  ```\n\n  `pkill` here simply delivers the signal\u2014it does not terminate the process.\n\n  > **Behavior change:** older releases also accepted `SIGUSR1` for toggling transcription with post-processing. WebKitGTK \u2014 the webview engine embedded in Handy on Linux \u2014 uses SIGUSR1 internally to coordinate JavaScript garbage collection, so listening for it caused phantom recordings and interrupted dictations every few minutes ([#1660](https://github.com/cjpais/Handy/issues/1660)). Handy no longer listens for SIGUSR1 on Linux; the post-processing toggle is still available via `handy --toggle-post-process`. **Remove any `pkill -USR1` bindings**: the signal is now delivered straight to WebKit's internal handler and can crash the app.\n\n**Overlay & Pasting Issues (Linux):**\n\n- The recording overlay window can interfere with pasting transcribed text into target applications on Linux (X11)\n- **Solution:** Open **Settings > Advanced** and set **\"Overlay Position\"** to **\"None\"** to disable the overlay\n- Enable **\"Audio Feedback\"** (also in Advanced) if you still want audible confirmation of recording state\n- Users who upgrade from older versions or import settings from other platforms may need to manually apply this change\n\n## Verify Release Signatures\n\nHandy release artifacts are signed with Tauri's updater signature format. The public key is stored in [`src-tauri/tauri.conf.json`](src-tauri/tauri.conf.json) under `plugins.updater.pubkey`.\n\nTo verify a release manually, set `ARTIFACT` to the filename you downloaded, save the `pubkey` value from `src-tauri/tauri.conf.json` to `handy.pub.b64`, then decode the public key and matching `.sig` file from base64 and verify the artifact with `minisign`:\n\n```bash\n# Replace with the file you downloaded\nARTIFACT=\"Handy_0.8.1_amd64.AppImage\"\n\npython3 - \"$ARTIFACT\" <<'PY'\nimport base64, pathlib, sys\n\nartifact = sys.argv[1]\n\npub = pathlib.Path(\"handy.pub.b64\").read_text().strip()\npathlib.Path(\"handy.pub\").write_bytes(base64.b64decode(pub))\n\nsig = pathlib.Path(f\"{artifact}.sig\").read_text().strip()\npathlib.Path(f\"{artifact}.minisig\").write_bytes(base64.b64decode(sig))\nPY\n\nminisign -Vm \"$ARTIFACT\" \\\n  -p handy.pub \\\n  -x \"$ARTIFACT.minisig\"\n```\n\nOn success, `minisign` prints:\n\n```text\nSignature and comment signature verified\n```\n\nDo not use `gpg` for these `.sig` files.\n\n## Troubleshooting\n\n### Previous Clipboard Content Is Pasted Instead of the Transcription\n\nIf the transcription is correct in **History** but Handy inserts text you copied earlier, see [issue #502](https://github.com/cjpais/Handy/issues/502). With the standard clipboard paste method, Handy restores your previous clipboard after a fixed delay. Under load, the receiving application may read the clipboard only after that restoration.\n\n1. Open Handy's settings window and press `Cmd+Shift+D` (macOS) or `Ctrl+Shift+D` (Windows/Linux) to reveal **Debug**.\n2. On **macOS and Windows**, try **Reliable Paste (Beta)** in Debug with a clipboard paste method selected. It uses clipboard read notifications to delay restoration instead of relying on the standard fixed delay. Test it in the application where the problem occurs; it is still experimental.\n3. If Reliable Paste is disabled or unavailable, increase **Paste Delay (After)** in Debug and test again. This controls the wait before restoring your previous clipboard. **Paste Delay (Before)** controls the wait before sending the paste keystroke and addresses a different part of the operation. These delay settings apply to the standard paste path, not Reliable Paste.\n\nIf the problem persists, add your Handy version, operating system, receiving application, paste method, Reliable Paste setting, and before/after delays to the existing issue. Redact private dictated text before sharing logs.\n\n### Manual Model Installation (For Proxy Users or Network Restrictions)\n\nIf you're behind a proxy, firewall, or in a restricted network environment where Handy cannot download models automatically, you can manually download and install them. The URLs are publicly accessible from any browser.\n\n#### Step 1: Find Your App Data Directory\n\n1. Open Handy settings\n2. Navigate to the **About** section\n3. Copy the \"App Data Directory\" path shown there, or use the shortcuts:\n   - **macOS**: `Cmd+Shift+D` to open debug menu\n   - **Windows/Linux**: `Ctrl+Shift+D` to open debug menu\n\nThe typical paths are:\n\n- **macOS**: `~/Library/Application Support/com.pais.handy/`\n- **Windows**: `C:\\Users\\{username}\\AppData\\Roaming\\com.pais.handy\\`\n- **Linux**: `~/.config/com.pais.handy/`\n\n#### Step 2: Create Models Directory\n\nInside your app data directory, create a `models` folder if it doesn't already exist:\n\n```bash\n# macOS/Linux\nmkdir -p ~/Library/Application\\ Support/com.pais.handy/models\n\n# Windows (PowerShell)\nNew-Item -ItemType Directory -Force -Path \"$env:APPDATA\\com.pais.handy\\models\"\n```\n\n#### Step 3: Download Model Files\n\nDownload the models you want from below\n\n**Whisper Models (single .bin files):**\n\n- Small (487 MB): `https://blob.handy.computer/ggml-small.bin`\n- Medium (492 MB): `https://blob.handy.computer/whisper-medium-q4_1.bin`\n- Turbo (1600 MB): `https://blob.handy.computer/ggml-large-v3-turbo.bin`\n- Large (1100 MB): `https://blob.handy.computer/ggml-large-v3-q5_0.bin`\n\n**Parakeet Unified EN 0.6B (single `.gguf` file, recommended):**\n\n- Q8_0 (731 MB): `https://huggingface.co/handy-computer/parakeet-unified-en-0.6b-gguf/resolve/main/parakeet-unified-en-0.6b-Q8_0.gguf`\n\n#### Step 4: Install Models\n\n**For Whisper Models (.bin files):**\n\nSimply place the `.bin` file directly into the `models` directory:\n\n```\n{app_data_dir}/models/\n\u251c\u2500\u2500 ggml-small.bin\n\u251c\u2500\u2500 whisper-medium-q4_1.bin\n\u251c\u2500\u2500 ggml-large-v3-turbo.bin\n\u2514\u2500\u2500 ggml-large-v3-q5_0.bin\n```\n\n**For GGUF Models (.gguf files):**\n\nPlace the `.gguf` file directly into the `models` directory, exactly like the Whisper `.bin` files above. Handy also picks up models already present in the shared Hugging Face cache (`~/.cache/huggingface/hub`), so a copy downloaded by another tool works without being moved.\n\n**Important Notes:**\n\n- Do not rename the `.bin` or `.gguf` files\u2014use the exact filenames from the download URLs\n- After placing the files, restart Handy to detect the new models\n\n#### Step 5: Verify Installation\n\n1. Restart Handy\n2. Open Settings \u2192 Models\n3. Your manually installed models should now appear as \"Downloaded\"\n4. Select the model you want to use and test transcription\n\n### Custom Whisper Models\n\nHandy can auto-discover custom Whisper GGML models placed in the `models` directory. This is useful for users who want to use fine-tuned or community models not included in the default model list.\n\n**How to use:**\n\n1. Obtain a Whisper model in GGML `.bin` format (e.g., from [Hugging Face](https://huggingface.co/models?search=whisper%20ggml))\n2. Place the `.bin` file in your `models` directory (see paths above)\n3. Restart Handy to discover the new model\n4. The model will appear in the \"Custom Models\" section of the Models settings page\n\n**Important:**\n\n- Community models are user-provided and may not receive troubleshooting assistance\n- The model must be a valid Whisper GGML format (`.bin` file)\n- Model name is derived from the filename (e.g., `my-custom-model.bin` \u2192 \"My Custom Model\")\n\n### Linux Startup Crashes or Instability\n\nIf Handy fails to start reliably on Linux \u2014 for example, it crashes shortly after launch, never shows its window, or reports a Wayland protocol error \u2014 try the steps below in order.\n\n**1. Install (or reinstall) `gtk-layer-shell`**\n\nHandy uses `gtk-layer-shell` for its recording overlay and links against it at runtime. A missing or broken installation is the most common cause of startup failures and can manifest as a crash or a hang well before any window is shown. Make sure the runtime package is installed for your distro:\n\n| Distro        | Package to install    | Example command                        |\n| ------------- | --------------------- | -------------------------------------- |\n| Ubuntu/Debian | `libgtk-layer-shell0` | `sudo apt install libgtk-layer-shell0` |\n| Fedora/RHEL   | `gtk-layer-shell`     | `sudo dnf install gtk-layer-shell`     |\n| Arch Linux    | `gtk-layer-shell`     | `sudo pacman -S gtk-layer-shell`       |\n\nIf it is already installed and you still see startup problems, try reinstalling it (e.g. `sudo pacman -S gtk-layer-shell` again) in case the library files were corrupted by a partial upgrade.\n\n**2. Disable the GTK layer shell overlay (`HANDY_NO_GTK_LAYER_SHELL`)**\n\nIf installing the library does not help, you can skip `gtk-layer-shell` initialization entirely as a workaround. On some compositors (notably KDE Plasma under Wayland) it has been reported to interact poorly with the recording overlay. With this variable set, the overlay falls back to a regular always-on-top window:\n\n```bash\nHANDY_NO_GTK_LAYER_SHELL=1 handy\n```\n\n**3. Configure WebKit DMA-BUF rendering (`WEBKIT_DISABLE_DMABUF_RENDERER`)**\n\nHandy disables the WebKitGTK DMA-BUF renderer by default on Linux because it can cause blank windows or crashes on some GPU/driver combinations. Explicit environment-variable values are preserved, including in the Nix package. To explicitly keep the renderer disabled:\n\n```bash\nWEBKIT_DISABLE_DMABUF_RENDERER=1 handy\n```\n\nSome users on WebKitGTK 2.54 report a flickering or partially drawn recording overlay with the renderer disabled ([#2166](https://github.com/cjpais/Handy/issues/2166)). If affected, try opting out of the default workaround:\n\n```bash\nWEBKIT_DISABLE_DMABUF_RENDERER=0 handy\n```\n\nThis allows WebKit to use the renderer when supported, but can reintroduce the GPU/driver-specific crashes described above. Remove the override or use `=1` if that happens.\n\nFully quit Handy, including its tray instance, before testing either value. Running a second instance with `--toggle-transcription` does not change the running process's environment.\n\n**Making a workaround permanent**\n\nSet the variable in the environment of the launcher that actually starts Handy. Shell profile exports may not apply to desktop-menu or autostart launches. If you launch Handy from a `.desktop` file, you can prefix the `Exec=` line, e.g.:\n\n```ini\nExec=env HANDY_NO_GTK_LAYER_SHELL=1 handy\n```\n\nHandy's built-in autostart rewrites its generated desktop entry, so editing that entry is not a durable workaround. For autostart, use an appropriate session/service environment, or disable Handy's built-in autostart and manage your own startup entry with the required variable.\n\nIf a workaround helps you, please [open an issue](https://github.com/cjpais/Handy/issues) describing your distro, desktop environment, and session type \u2014 that information helps us narrow down the underlying bug.\n\n### Empty recording overlay on Hyprland / Omarchy\n\nIf the recording overlay is empty or bordered, fully quit Handy and launch a\n[native installation](BUILD.md#linux-install-from-source) with Wayland enabled:\n\n```bash\nenv -u HANDY_NO_GTK_LAYER_SHELL GDK_BACKEND=wayland handy\n```\n\nIf this works, apply `GDK_BACKEND=wayland` only to Handy's launcher. This\nworkaround does not work with the 0.9.6 AppImage, which forces X11.\n\n### Vulkan Overlays and Capture Tools on Windows (`HANDY_KEEP_VULKAN_IMPLICIT_LAYERS`)\n\nOn Windows, Handy asks the Vulkan loader to skip implicit layers to avoid crashes caused by overlay and capture hooks ([#2049](https://github.com/cjpais/Handy/issues/2049)). GPU acceleration remains enabled; this does not change system-wide settings.\n\nTo opt out for GPU selection or debugging tools, fully quit Handy (including the tray icon), then run both commands in the same PowerShell window:\n\n```powershell\n$env:HANDY_KEEP_VULKAN_IMPLICIT_LAYERS = \"1\"\n& \"$env:ProgramFiles\\Handy\\handy.exe\"\n```\n\nAdjust the executable path if needed. This override only applies to apps launched from that PowerShell session, not the Start menu. Handy also preserves any existing `VK_LOADER_LAYERS_DISABLE` value.\n\n### How to Contribute\n\n1. **Check existing issues** at [github.com/cjpais/Handy/issues](https://github.com/cjpais/Handy/issues)\n2. **Fork the reposito"
+  },
+  {
+    "repo": "swathigampa354-ship-it/supoclip",
+    "description": "An open-source OpusClip alternative",
+    "private": false,
+    "branch": "main",
+    "url": "https://github.com/swathigampa354-ship-it/supoclip",
+    "stars": 0,
+    "language": "Python",
+    "file_count": 1079,
+    "key_files": [
+      {
+        "path": ".dockerignore",
+        "size": 383
+      },
+      {
+        "path": ".env.example",
+        "size": 17608
+      },
+      {
+        "path": ".gitignore",
+        "size": 598
+      },
+      {
+        "path": "AGENTS.md",
+        "size": 3623
+      },
+      {
+        "path": "CHANGELOG.md",
+        "size": 10448
+      },
+      {
+        "path": "CLAUDE.md",
+        "size": 19986
+      },
+      {
+        "path": "CONTRIBUTING.md",
+        "size": 1943
+      },
+      {
+        "path": "DEPLOY_NOTES.md",
+        "size": 1530
+      },
+      {
+        "path": "LICENSE",
+        "size": 34515
+      },
+      {
+        "path": "Makefile",
+        "size": 1157
+      },
+      {
+        "path": "QUICKSTART.md",
+        "size": 7347
+      },
+      {
+        "path": "README.md",
+        "size": 7782
+      },
+      {
+        "path": "backend/Dockerfile",
+        "size": 1645
+      },
+      {
+        "path": "backend/README.md",
+        "size": 4650
+      },
+      {
+        "path": "backend/fonts/README.md",
+        "size": 1458
+      },
+      {
+        "path": "backend/pyproject.toml",
+        "size": 2162
+      },
+      {
+        "path": "backend/render.Dockerfile",
+        "size": 2258
+      },
+      {
+        "path": "backend/src/main.py",
+        "size": 9385
+      },
+      {
+        "path": "backend/src/media/models/README.md",
+        "size": 667
+      },
+      {
+        "path": "backend/src/worker_main.py",
+        "size": 520
+      },
+      {
+        "path": "docker-compose.yml",
+        "size": 25351
+      },
+      {
+        "path": "docs/README.md",
+        "size": 3192
+      },
+      {
+        "path": "frontend/Dockerfile",
+        "size": 5777
+      },
+      {
+        "path": "frontend/README.md",
+        "size": 58
+      },
+      {
+        "path": "frontend/package.json",
+        "size": 3027
+      },
+      {
+        "path": "init.sql",
+        "size": 13775
+      },
+      {
+        "path": "install_cron.sh",
+        "size": 2266
+      },
+      {
+        "path": "mcp/Dockerfile",
+        "size": 514
+      },
+      {
+        "path": "mcp/README.md",
+        "size": 5180
+      },
+      {
+        "path": "mcp/pyproject.toml",
+        "size": 623
+      },
+      {
+        "path": "mcp/src/supoclip_mcp/server.py",
+        "size": 26455
+      },
+      {
+        "path": "render.yaml",
+        "size": 5647
+      },
+      {
+        "path": "start.sh",
+        "size": 4244
+      }
+    ],
+    "readme_text": "<p align=\"center\">\n  <a href=\"https://www.supoclip.com\">\n    <img src=\"assets/banner.jpg\" alt=\"SupoClip dashboard with video input, caption controls, and recent clips\" width=\"100%\" />\n  </a>\n</p>\n\n<h3 align=\"center\">Fuck OpusClip.</h3>\n\n<p align=\"center\">\n  ... because good video clips shouldn't come with ugly watermarks or platform lock-in.\n</p>\n\n<p align=\"center\">\n  <a href=\"LICENSE\"><img src=\"https://img.shields.io/badge/license-AGPL--3.0-blue.svg\" alt=\"License: AGPL-3.0\" /></a>\n  <a href=\"https://www.supoclip.com\"><img src=\"https://img.shields.io/badge/hosted-supoclip.com-black.svg\" alt=\"Hosted at supoclip.com\" /></a>\n  <a href=\"docs/README.md\"><img src=\"https://img.shields.io/badge/docs-docs%2F-green.svg\" alt=\"Documentation\" /></a>\n</p>\n\n<p align=\"center\">\n  <a href=\"https://apps.apple.com/us/app/supoclip/id6784760040\">\n    <img src=\"frontend/public/app-store-badge.svg\" alt=\"Download SupoClip on the App Store\" height=\"40\" />\n  </a>\n  &nbsp;\n  <a href=\"https://www.producthunt.com/products/supoclip?embed=true&utm_source=badge-featured&utm_medium=badge&utm_campaign=badge-supoclip\" target=\"_blank\" rel=\"noopener noreferrer\">\n    <img src=\"https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=1276786&theme=dark\" alt=\"SupoClip on Product Hunt\" height=\"40\" />\n  </a>\n</p>\n\n---\n\nSupoClip is an open-source, AI-powered video clipping tool. Give it a long video \u2014 a podcast, a talk, a stream VOD \u2014 and it finds the most viral-worthy moments, scores them, and renders them as vertical 9:16 clips with face-centered cropping, word-synced subtitles, hook titles, and optional B-roll. Run it yourself, customize it, inspect it \u2014 or use the hosted version and skip the setup.\n\n**See it first:** [watch real clips SupoClip generated](https://www.supoclip.com/demo) from a long-form interview, or follow the [self-hosting tutorial](https://www.supoclip.com/blog/self-host-supoclip-docker) to run it on your own machine.\n\n## Ways to Use SupoClip\n\n| Option | Details |\n|---|---|\n| **Hosted web app** | [www.supoclip.com](https://www.supoclip.com) \u2014 no infrastructure to run |\n| **iOS app** | [SupoClip on the App Store](https://apps.apple.com/us/app/supoclip/id6784760040) \u2014 the same hosted pipeline, from your iPhone |\n| **Self-host** | Docker Compose setup below, or the step-by-step [self-hosting tutorial](https://www.supoclip.com/blog/self-host-supoclip-docker) \u2014 AGPL-3.0, unlimited usage on your own hardware |\n| **MCP server** | [`mcp/`](mcp/) \u2014 use SupoClip from Claude, Cursor, and other MCP clients |\n| **REST API** | API keys from `/settings/api-keys` authenticate the backend directly \u2014 see the [API reference](docs/api-reference.md) |\n\n## Why SupoClip Exists\n\nOpusClip is genuinely good at what it does \u2014 AI clip selection, accurate captions, virality scoring. But your usage is metered by plan, some exports carry platform branding, and your content and workflows live on their servers under their terms.\n\nSupoClip gives you the same core pipeline without the leash:\n\n- **Self-hostable** \u2014 run it on your own hardware, process as much as it can handle\n- **No watermarks** \u2014 your content stays yours\n- **Open source** \u2014 AGPL-3.0, full transparency, fork and extend it however you like\n- **Hosted option** \u2014 when you'd rather not manage servers, the cloud version is there\n\n## Features\n\n- **YouTube, Twitch, Kick & uploads** \u2014 paste a YouTube video, a Twitch VOD or clip, or a Kick VOD or clip, or upload your own file (live streams are not supported). Twitch and Kick download providers and the optional Apify fallbacks are set in [docs/configuration.md](docs/configuration.md#twitch-and-kick-imports)\n\n- **AI clip selection** \u2014 an LLM (Gemini, GPT, Claude, or a local Ollama model) picks the 3\u20137 most clip-worthy segments from the transcript\n- **Virality scoring** \u2014 every clip gets hook, engagement, value, and shareability scores\n- **Smart vertical cropping** \u2014 face detection keeps the speaker centered in the 9:16 frame\n- **Word-synced subtitles** \u2014 AssemblyAI word-level timestamps, custom fonts, caption templates with animation styles\n- **Hook titles** \u2014 an AI-written headline burned into the top of each clip's opening seconds\n- **B-roll & transitions** \u2014 optional Pexels stock footage overlays and transition effects\n- **Built-in editor** \u2014 trim, split, and merge clips, then export with platform presets (TikTok, Reels, Shorts)\n- **Direct publishing** \u2014 connect your own YouTube, TikTok and Instagram accounts, then post or schedule clips from the task page\n- **Performance loop** \u2014 views, likes, comments and shares flow back from each platform and steer future clip selection toward what works for your audience\n- **Real-time progress** \u2014 live pipeline updates streamed to the browser while your video processes\n\n## Quick Start\n\nYou need Docker, an [AssemblyAI](https://www.assemblyai.com/) API key for transcription, and one LLM provider key (Google, OpenAI, Anthropic, or a local Ollama).\n\n```bash\ngit clone https://github.com/FujiwaraChoki/supoclip.git\ncd supoclip\n```\n\nCreate a `.env` in the root with your keys:\n\n```env\nASSEMBLY_AI_API_KEY=your_assemblyai_api_key\nLLM=google-gla:gemini-3-flash-preview\nGOOGLE_API_KEY=your_google_api_key\n```\n\nThen start everything:\n\n```bash\ndocker-compose up -d\n```\n\nFirst startup takes a few minutes; watch it with `docker-compose logs -f`. Once healthy, open [http://localhost:3107](http://localhost:3107), create an account, and start clipping. The backend API lives at [http://localhost:8000](http://localhost:8000) with interactive docs at `/docs`.\n\nThe template sets `FRONTEND_PORT=3107`. Existing deployments without this setting keep port `3001`; preserve that port if your production reverse proxy uses it. See the [setup guide](docs/setup.md) for custom ports and public URLs.\n\nTo run fully local with Whisper and Ollama (including the Docker networking Ollama needs), see the [self-hosting tutorial](https://www.supoclip.com/blog/self-host-supoclip-docker#local). To use a different LLM provider or configure the optional pieces (B-roll, analytics, emails, YouTube metadata), see the [configuration guide](docs/configuration.md). If something misbehaves, the [troubleshooting guide](docs/troubleshooting.md) covers the common failure modes.\n\n## Documentation\n\nEverything beyond this page lives in [`docs/`](docs/README.md):\n\n| Guide | What it covers |\n|---|---|\n| [Setup](docs/setup.md) | Docker-first install, local development, first-run checklist |\n| [Deploy on Render](docs/deploy-render.md) | One-command deployment to Render (Postgres, Key Value, API, web) |\n| [Configuration](docs/configuration.md) | Every environment variable, operating modes, provider options |\n| [App Guide](docs/app-guide.md) | Screens, workflows, admin features, hosted vs self-host |\n| [Architecture](docs/architecture.md) | How the frontend, API, worker, queue, and pipeline fit together |\n| [API Reference](docs/api-reference.md) | Backend endpoints, API keys, admin and billing routes |\n| [Development](docs/development.md) | Running locally without Docker, testing, contributing workflow |\n| [Troubleshooting](docs/troubleshooting.md) | Fixes for the common ways things go wrong |\n\n## Development & Testing\n\nThe stack runs locally without Docker too \u2014 see [development](docs/development.md) for the backend (`uv` + FastAPI + ARQ worker) and frontend (Next.js + pnpm) commands. The test suite spans pytest, Vitest, and Playwright, all reachable from the repo root:\n\n```bash\nmake test\n```\n\n## License\n\nSupoClip is released under the [AGPL-3.0 License](LICENSE).\n\nContributions are accepted under the terms in [CONTRIBUTING.md](CONTRIBUTING.md), including a license grant that allows the project owner to sublicense and relicense contributed code.\n"
+  },
+  {
+    "repo": "swathigampa354-ship-it/clipforge",
+    "description": "AI Video Clipping SaaS \u2014 Turn long-form videos into viral short-form content",
+    "private": false,
+    "branch": "main",
+    "url": "https://github.com/swathigampa354-ship-it/clipforge",
+    "stars": 0,
+    "language": "Python",
+    "file_count": 146,
+    "key_files": [
+      {
+        "path": ".env.example",
+        "size": 1428
+      },
+      {
+        "path": ".gitignore",
+        "size": 835
+      },
+      {
+        "path": "Dockerfile",
+        "size": 620
+      },
+      {
+        "path": "Dockerfile.prod",
+        "size": 620
+      },
+      {
+        "path": "README.md",
+        "size": 7757
+      },
+      {
+        "path": "api/Dockerfile",
+        "size": 457
+      },
+      {
+        "path": "api/app/main.py",
+        "size": 1145
+      },
+      {
+        "path": "api/package.json",
+        "size": 450
+      },
+      {
+        "path": "api/pyproject.toml",
+        "size": 1435
+      },
+      {
+        "path": "api/requirements.txt",
+        "size": 658
+      },
+      {
+        "path": "docker-compose.dev.yml",
+        "size": 2552
+      },
+      {
+        "path": "docker-compose.gpu.yml",
+        "size": 936
+      },
+      {
+        "path": "docker-compose.prod.yml",
+        "size": 3747
+      },
+      {
+        "path": "docker-compose.yml",
+        "size": 4753
+      },
+      {
+        "path": "frontend/Dockerfile",
+        "size": 157
+      },
+      {
+        "path": "frontend/package.json",
+        "size": 890
+      },
+      {
+        "path": "package.json",
+        "size": 849
+      },
+      {
+        "path": "packages/shared/package.json",
+        "size": 226
+      },
+      {
+        "path": "pyproject.toml",
+        "size": 378
+      },
+      {
+        "path": "requirements.txt",
+        "size": 659
+      },
+      {
+        "path": "tests/pyproject.toml",
+        "size": 321
+      },
+      {
+        "path": "tests/unit/test_main.py",
+        "size": 7547
+      },
+      {
+        "path": "worker/Dockerfile",
+        "size": 376
+      },
+      {
+        "path": "worker/app.py",
+        "size": 2226
+      }
+    ],
+    "readme_text": "# ClipForge\n\n**AI Video Clipping SaaS** \u2014 Turn long-form videos into short-form content using AI analysis, smart reframing, and automated captioning.\n\n[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)\n[![Python 3.12](https://img.shields.io/badge/Python-3.12+-blue)](https://python.org)\n[![React 18](https://img.shields.io/badge/React-18+-61DAFB)](https://react.dev)\n[![Docker](https://img.shields.io/badge/Docker-Compose-2496FD)](https://docker.com)\n\n---\n\n## \u26a0\ufe0f Project Status: DEVELOPMENT \u2014 NOT PRODUCTION READY\n\nThis project is under active development. The core AI clip engine, scoring engine, and analysis engine are well-implemented, but the worker pipeline, rendering system, authorization, and most API endpoints are **stubs or broken**. See [docs/REPOSITORY_AUDIT.md](docs/REPOSITORY_AUDIT.md) for a complete audit.\n\n| Feature | Status |\n|---------|--------|\n| AI Clip Engine | \u26a0\ufe0f PARTIAL |\n| Transcription | \u26a0\ufe0f PARTIAL |\n| Smart Reframe | \u26a0\ufe0f PARTIAL |\n| Captions | \u26a0\ufe0f PARTIAL |\n| Editor | \u274c STUB |\n| Rendering | \u274c BROKEN |\n| Workers | \u274c BROKEN |\n| Authorization | \u274c STUB |\n| Billing | \u274c STUB |\n| Social Publishing | \u274c STUB |\n\n---\n\n## Overview\n\nClipForge transforms long-form videos into short-form vertical content using:\n\n```\nLONG VIDEO \u2192 AI ANALYSIS \u2192 BEST MOMENTS \u2192 SHORT CLIPS \u2192 SMART REFRAMING \u2192 CAPTIONS \u2192 RENDER \u2192 EXPORT\n```\n\n## Architecture\n\n- **Backend**: Python 3.12, FastAPI, Celery, PostgreSQL 16, Redis\n- **Frontend**: React 18, TypeScript, Vite, Tailwind CSS\n- **Worker**: Celery with Redis-backed task queue\n- **Storage**: Local (dev) / S3/MinIO (prod)\n- **AI**: Gemini API, Ollama API, Faster-Whisper, MediaPipe, OpenCV\n- **Rendering**: FFmpeg (libx264)\n- **Deployment**: Docker Compose (dev + production)\n\n## Quick Start\n\n### Docker (Recommended)\n```bash\ngit clone https://github.com/swathigampa354-ship-it/clipforge.git\ncd clipforge\ncp .env.example .env\n# Edit .env with your API keys\ndocker compose -f docker-compose.dev.yml up --build\n```\n\n### Local Development\n```bash\n# Backend\ncd api\npip install -r requirements.txt\ncp ../.env.example .env\nalembic upgrade head\nuvicorn api.app.main:app --reload --port 8000\n\n# Worker\ncd worker\ncelery -A worker.app.celery_app worker --loglevel=info\n\n# Frontend\ncd ../frontend\nnpm install\nnpm run dev\n```\n\n### Access\n- API: http://localhost:8000\n- API Docs: http://localhost:8000/docs\n- Frontend: http://localhost:3000\n- MinIO Console: http://localhost:9001\n\n## Project Structure\n\n```\nclipforge/\n\u251c\u2500\u2500 api/                    # FastAPI backend (52 Python modules)\n\u2502   \u251c\u2500\u2500 app/               # Application factory, config, middleware\n\u2502   \u251c\u2500\u2500 core/              # Database, security, auth, rate limiting\n\u2502   \u251c\u2500\u2500 models/            # SQLAlchemy models (18 tables)\n\u2502   \u251c\u2500\u2500 routers/           # REST API endpoints (11 routers)\n\u2502   \u251c\u2500\u2500 schemas/           # Pydantic request/response models\n\u2502   \u251c\u2500\u2500 services/          # Business logic services\n\u2502   \u2502   \u251c\u2500\u2500 ai/            # AI analysis, clip detection, Ollama\n\u2502   \u2502   \u251c\u2500\u2500 captions/      # Caption engine, style engine\n\u2502   \u2502   \u2514\u2500\u2500 reframe/       # Face detection, reframe engine\n\u2502   \u251c\u2500\u2500 integrations/      # URL import (yt-dlp)\n\u2502   \u251c\u2500\u2500 migrations/        # Alembic database migrations\n\u2502   \u2514\u2500\u2500 requirements.txt   # Python dependencies\n\u251c\u2500\u2500 frontend/              # React + Vite + Tailwind\n\u2502   \u2514\u2500\u2500 src/\n\u2502       \u251c\u2500\u2500 pages/         # 11 pages (3 are stubs)\n\u2502       \u251c\u2500\u2500 hooks/         # useAuth.ts, useClipOperations.ts\n\u2502       \u2514\u2500\u2500 lib/           # API client, query client\n\u251c\u2500\u2500 worker/                # Celery worker\n\u2502   \u251c\u2500\u2500 app.py             # Celery app configuration\n\u2502   \u2514\u2500\u2500 tasks/             # 6 task modules\n\u251c\u2500\u2500 tests/                 # Test suite (2/23 tests pass)\n\u251c\u2500\u2500 docs/                  # Documentation (5 documents)\n\u251c\u2500\u2500 .github/workflows/     # CI/CD pipeline\n\u251c\u2500\u2500 Dockerfile             # Base Docker config\n\u251c\u2500\u2500 docker-compose*.yml    # Dev + production configs\n\u251c\u2500\u2500 pyproject.toml         # Project configuration\n\u2514\u2500\u2500 .env.example           # Environment template\n```\n\n## API Endpoints\n\n### Authentication\n| Method | Endpoint | Description |\n|--------|----------|-------------|\n| POST | `/api/v1/auth/register` | Create account |\n| POST | `/api/v1/auth/login` | Login |\n| GET | `/api/v1/auth/me` | Get current user |\n| POST | `/api/v1/auth/refresh` | Refresh token (stub) |\n\n### Projects\n| Method | Endpoint | Description |\n|--------|----------|-------------|\n| POST | `/api/v1/projects` | Create project |\n| GET | `/api/v1/projects` | List projects |\n| GET | `/api/v1/projects/:id` | Get project |\n| PUT | `/api/v1/projects/:id` | Update project |\n| DELETE | `/api/v1/projects/:id` | Delete project |\n\n### Videos\n| Method | Endpoint | Description |\n|--------|----------|-------------|\n| POST | `/api/v1/videos/upload` | Upload video |\n| POST | `/api/v1/videos/import` | Import from URL |\n| GET | `/api/v1/videos/:id` | Get video |\n| POST | `/api/v1/videos/:id/analyze` | Start processing |\n| GET | `/api/v1/videos/:id/status` | Get processing status |\n\n### AI Analysis\n| Method | Endpoint | Description |\n|--------|----------|-------------|\n| POST | `/api/v1/ai/analyze` | Run AI analysis |\n| GET | `/api/v1/ai/candidates/:video_id` | Get clip candidates |\n| POST | `/api/v1/ai/ollama/generate` | Generate with Ollama |\n| GET | `/api/v1/ai/ollama/health` | Check Ollama status |\n\n### Captions\n| Method | Endpoint | Description |\n|--------|----------|-------------|\n| GET | `/api/v1/caption-styles` | List caption styles |\n| POST | `/api/v1/captions/generate` | Generate captions |\n| POST | `/api/v1/captions/:clip_id/apply` | Apply captions |\n\n### Smart Reframe\n| Method | Endpoint | Description |\n|--------|----------|-------------|\n| POST | `/api/v1/reframe/:video_id/generate` | Generate reframe path |\n| GET | `/api/v1/reframe/:video_id/path` | Get camera path |\n| POST | `/api/v1/reframe/:clip_id/reframe` | Reframe clip |\n\n---\n\n## AI Capabilities\n\n### Clip Detection (8 Strategies)\n- Sentence boundary detection\n- Topic change detection\n- Q&A sequence detection\n- Strong opening detection\n- Emotional peak detection\n- Surprising claim detection\n- Complete thought detection\n- Keyword trigger detection\n\n### Scoring (10 Dimensions)\n- Hook strength, Information density, Emotional intensity, Novelty, Curiosity, Narrative completeness, Quotability, Audience relevance, Dead air, Context dependency\n\n### AI Providers\n- Google Gemini API (configured)\n- Ollama API (configured, local)\n- Faster-Whisper (local transcription)\n\n## Deployment\n\n### Development\n```bash\ndocker compose -f docker-compose.dev.yml up --build\n```\n\n### Production\n```bash\ndocker compose -f docker-compose.prod.yml up -d\n```\n\n### GPU Support\n```bash\ndocker compose -f docker-compose.gpu.yml up --build\n```\n\n## Documentation\n\n| Document | Content |\n|----------|---------|\n| [REPOSITORY_AUDIT.md](docs/REPOSITORY_AUDIT.md) | Complete codebase audit with all findings |\n| [OPUSCLIP_GAP_MATRIX.md](docs/OPUSCLIP_GAP_MATRIX.md) | Feature-by-feature comparison against OpusClip |\n| [ARCHITECTURE.md](docs/ARCHITECTURE.md) | System architecture and module descriptions |\n| [API.md](docs/API.md) | Complete API endpoint reference |\n| [DEPLOYMENT.md](docs/DEPLOYMENT.md) | Deployment guide |\n| [FINAL_VERIFICATION.md](docs/FINAL_VERIFICATION.md) | Final verification and test results |\n\n## License\n\nMIT License \u2014 see [LICENSE](LICENSE) for details.\n\n**Note**: [Clips Kitty](https://github.com/ColinGPT9/clips-studio) (AGPL-3.0) was studied but NOT incorporated due to license incompatibility.\n"
+  },
+  {
+    "repo": "swathigampa354-ship-it/vertical-video-edits-2026-10-16",
+    "description": "9:16 source-driven video editing project and finished exports",
+    "private": false,
+    "branch": "main",
+    "url": "https://github.com/swathigampa354-ship-it/vertical-video-edits-2026-10-16",
+    "stars": 0,
+    "language": "Python",
+    "file_count": 1146,
+    "key_files": [
+      {
+        "path": "README.md",
+        "size": 1597
+      },
+      {
+        "path": "ai-work-session/SKILL.md",
+        "size": 9497
+      },
+      {
+        "path": "ai-work-session/references/source-snapshot/README.md",
+        "size": 2720
+      },
+      {
+        "path": "assets/README.md",
+        "size": 165
+      },
+      {
+        "path": "edits/voice-agents-9x16/README.md",
+        "size": 1454
+      },
+      {
+        "path": "edits/voice-agents-editorial-v2/README.md",
+        "size": 1658
+      },
+      {
+        "path": "edits/voice-agents-morph-v3/README.md",
+        "size": 3101
+      },
+      {
+        "path": "video-editing-archive/project/workspace/video-project/ai-work-session/SKILL.md",
+        "size": 9497
+      },
+      {
+        "path": "video-editing-archive/project/workspace/video-project/ai-work-session/references/source-snapshot/README.md",
+        "size": 2720
+      },
+      {
+        "path": "video-editing-archive/project/workspace/video-project/edits/voice-agents-9x16/README.md",
+        "size": 1454
+      },
+      {
+        "path": "video-editing-archive/project/workspace/video-project/edits/voice-agents-editorial-v2/README.md",
+        "size": 1658
+      },
+      {
+        "path": "video-editing-archive/project/workspace/video-project/edits/voice-agents-morph-v3/README.md",
+        "size": 3101
+      },
+      {
+        "path": "video-editing-archive/project/workspace/video-project/video-editing-skill/.cache/relocated-final/video-editing-skill/README.md",
+        "size": 3615
+      },
+      {
+        "path": "video-editing-archive/project/workspace/video-project/video-editing-skill/.cache/relocated-final/video-editing-skill/SKILL.md",
+        "size": 15112
+      },
+      {
+        "path": "video-editing-archive/project/workspace/video-project/video-editing-skill/.cache/relocated-final/video-editing-skill/references/WORKFLOW.md",
+        "size": 7775
+      },
+      {
+        "path": "video-editing-archive/project/workspace/video-project/video-editing-skill/.cache/relocated-final/video-editing-skill/requirements.txt",
+        "size": 180
+      },
+      {
+        "path": "video-editing-archive/project/workspace/video-project/video-editing-skill/.cache/relocated-final/video-editing-skill/tests/README.md",
+        "size": 3719
+      },
+      {
+        "path": "video-editing-archive/project/workspace/video-project/video-editing-skill/.cache/relocated/video-editing-skill/README.md",
+        "size": 3615
+      },
+      {
+        "path": "video-editing-archive/project/workspace/video-project/video-editing-skill/.cache/relocated/video-editing-skill/SKILL.md",
+        "size": 15112
+      },
+      {
+        "path": "video-editing-archive/project/workspace/video-project/video-editing-skill/.cache/relocated/video-editing-skill/references/WORKFLOW.md",
+        "size": 7775
+      },
+      {
+        "path": "video-editing-archive/project/workspace/video-project/video-editing-skill/.cache/relocated/video-editing-skill/requirements.txt",
+        "size": 180
+      },
+      {
+        "path": "video-editing-archive/project/workspace/video-project/video-editing-skill/README.md",
+        "size": 3615
+      },
+      {
+        "path": "video-editing-archive/project/workspace/video-project/video-editing-skill/SKILL.md",
+        "size": 15112
+      },
+      {
+        "path": "video-editing-archive/project/workspace/video-project/video-editing-skill/references/WORKFLOW.md",
+        "size": 7775
+      },
+      {
+        "path": "video-editing-archive/project/workspace/video-project/video-editing-skill/requirements.txt",
+        "size": 180
+      },
+      {
+        "path": "video-editing-archive/project/workspace/video-project/video-editing-skill/tests/README.md",
+        "size": 3719
+      },
+      {
+        "path": "video-editing-archive/skills/video-editing-skill/README.md",
+        "size": 3615
+      },
+      {
+        "path": "video-editing-archive/skills/video-editing-skill/SKILL.md",
+        "size": 15112
+      },
+      {
+        "path": "video-editing-archive/skills/video-editing-skill/references/WORKFLOW.md",
+        "size": 7775
+      },
+      {
+        "path": "video-editing-archive/skills/video-editing-skill/requirements.txt",
+        "size": 180
+      },
+      {
+        "path": "video-editing-archive/skills/video-editing-skill/tests/README.md",
+        "size": 3719
+      },
+      {
+        "path": "video-editing-skill/README.md",
+        "size": 3615
+      },
+      {
+        "path": "video-editing-skill/SKILL.md",
+        "size": 15112
+      },
+      {
+        "path": "video-editing-skill/references/WORKFLOW.md",
+        "size": 7775
+      },
+      {
+        "path": "video-editing-skill/requirements.txt",
+        "size": 180
+      },
+      {
+        "path": "video-editing-skill/tests/README.md",
+        "size": 3719
+      }
+    ],
+    "readme_text": "# Vertical video edits\n\n## Latest: Morph v3\n\n**[Open the new off-white / black / cobalt motion film](edits/voice-agents-morph-v3/)**\n\n- [Watch / download v3 MP4](edits/voice-agents-morph-v3/voice-agents-morph-v3.mp4)\n- [V3 poster](edits/voice-agents-morph-v3/poster.jpg)\n- [V3 speech captions](edits/voice-agents-morph-v3/captions.srt)\n\n## All versions\n\n| Version | Style | Frame rate | Files |\n| --- | --- | --- | --- |\n| 1 | Red/lime, bold italic captions, punch-ins, voice-AI diagrams | 30 fps | [Original edit](edits/voice-agents-9x16/) |\n| 2 | Orange/black/cream editorial, serif captions, grid quote reveal, rounded/circular panels | 30 fps | [Editorial v2](edits/voice-agents-editorial-v2/) |\n| 3 | Off-white/black/cobalt, one continuously morphing UI object, crisp type and cursor choreography | 60 fps graphics | [Morph v3](edits/voice-agents-morph-v3/) |\n\nAll versions: 1080 \u00d7 1920 \u00b7 9:16 \u00b7 approximately 21.37 seconds \u00b7 H.264 / AAC. Earlier edits are preserved unchanged.\n\nSource: https://www.youtube.com/watch?v=FcvFNbcCL98\n\nThe original speech is retained in its original order and timing. References inform design only; no reference footage, branding or audio has been reused. V3's selected inspirations from [awesome-opus5-5-videos](https://github.com/yihui-dev/awesome-opus5-5-videos) are credited in its folder.\n\nThe raw footage was 640 \u00d7 360 at approximately 29.97 fps. Footage is upscaled, not regenerated or motion-interpolated; v3's new graphics animate at 60 fps. Full notes are in each folder.\n\nThis repository is public. Do not upload credentials or private material.\n"
+  },
+  {
+    "repo": "swathigampa354-ship-it/podcli",
+    "description": "Open-source AI podcast clipper. Generate vertical clips with face tracking and burned-in captions. CLI, MCP server, web app.",
+    "private": false,
+    "branch": "main",
+    "url": "https://github.com/swathigampa354-ship-it/podcli",
+    "stars": 0,
+    "language": null,
+    "file_count": 446,
+    "key_files": [
+      {
+        "path": ".editorconfig",
+        "size": 243
+      },
+      {
+        "path": ".env.example",
+        "size": 1142
+      },
+      {
+        "path": ".gitignore",
+        "size": 785
+      },
+      {
+        "path": "AGENTS.podstack.md",
+        "size": 5997
+      },
+      {
+        "path": "CLAUDE.md",
+        "size": 7563
+      },
+      {
+        "path": "CLAUDE.podstack.md",
+        "size": 2341
+      },
+      {
+        "path": "CODE_OF_CONDUCT.md",
+        "size": 2481
+      },
+      {
+        "path": "CONTRIBUTING.md",
+        "size": 3571
+      },
+      {
+        "path": "ETHOS.podstack.md",
+        "size": 2915
+      },
+      {
+        "path": "LICENSE",
+        "size": 34523
+      },
+      {
+        "path": "README.md",
+        "size": 6782
+      },
+      {
+        "path": "RELEASE.md",
+        "size": 2133
+      },
+      {
+        "path": "SECURITY.md",
+        "size": 947
+      },
+      {
+        "path": "backend/config/server.py",
+        "size": 724
+      },
+      {
+        "path": "backend/main.py",
+        "size": 41857
+      },
+      {
+        "path": "backend/requirements.txt",
+        "size": 891
+      },
+      {
+        "path": "backend/services/integrations/davinci_resolve/README.md",
+        "size": 5581
+      },
+      {
+        "path": "backend/templates/knowledge/09-content-workflow.md",
+        "size": 781
+      },
+      {
+        "path": "install.cmd",
+        "size": 431
+      },
+      {
+        "path": "install.ps1",
+        "size": 4977
+      },
+      {
+        "path": "install.sh",
+        "size": 4336
+      },
+      {
+        "path": "package-lock.json",
+        "size": 276057
+      },
+      {
+        "path": "package.json",
+        "size": 1867
+      },
+      {
+        "path": "remotion/package.json",
+        "size": 288
+      },
+      {
+        "path": "setup.ps1",
+        "size": 7562
+      },
+      {
+        "path": "setup.sh",
+        "size": 6769
+      },
+      {
+        "path": "tests/parity/README.md",
+        "size": 3933
+      },
+      {
+        "path": "tsconfig.json",
+        "size": 472
+      }
+    ],
+    "readme_text": "<p align=\"center\">\n  <img src=\"public/podcli-badge.png\" height=\"72\" alt=\"podcli\" />\n</p>\n\n<p align=\"center\">\n  <strong>Open-source AI podcast clipper.</strong><br/>\n  Turn a long episode into short clips with face tracking and burned-in captions. Drive it from the CLI, a web studio, or your coding agent.\n</p>\n\n<p align=\"center\">\n  <a href=\"https://podcli.com\"><strong>podcli.com</strong></a> \u00b7\n  <a href=\"https://podcli.com/docs\">Docs</a> \u00b7\n  <a href=\"#install\">Install</a> \u00b7\n  <a href=\"#use-it-from-your-agent\">MCP</a>\n</p>\n\n<p align=\"center\">\n  <a href=\"https://github.com/nmbrthirteen/podcli/blob/main/LICENSE\"><img src=\"https://img.shields.io/badge/license-AGPL--3.0-blue\" alt=\"license: AGPL-3.0\" /></a>\n  <a href=\"https://github.com/nmbrthirteen/podcli/stargazers\"><img src=\"https://img.shields.io/github/stars/nmbrthirteen/podcli?style=social\" alt=\"stars\" /></a>\n</p>\n\n<p align=\"center\">\n  <a href=\"https://x.com/nikasiradze_/status/2056061654664708570\">\n    <img src=\"public/promo.gif\" alt=\"Podcli demo\" width=\"720\" />\n  </a>\n</p>\n<p align=\"center\"><sub>\u25b6 <a href=\"https://x.com/nikasiradze_/status/2056061654664708570\">Watch with sound on X</a></sub></p>\n\n```bash\npodcli process episode.mp4\n```\n\nThat one command transcribes the episode, picks the moments worth clipping, crops to whoever is speaking, and burns the captions in. Transcription and rendering run on your machine. The only network calls are the optional Claude or Codex requests when you use AI clip scoring.\n\n## Install\n\nNo prerequisites. The installer fetches a self-contained binary, and the first run provisions Python, Node, FFmpeg, whisper.cpp, and the models it needs into a managed folder.\n\n**macOS and Linux**\n\n```bash\ncurl -fsSL https://podcli.com/install.sh | sh\n```\n\n**Windows (PowerShell)**\n\n```powershell\nirm https://podcli.com/install.ps1 | iex\n```\n\nRuns on macOS (Apple Silicon), Linux (x64 and arm64), and Windows (x64). Intel Mac support is in progress.\n\n## Quick start\n\n```bash\npodcli                       # interactive menu, opens the web studio\npodcli process episode.mp4   # transcribe, pick moments, render clips\n```\n\nClips land in `podcli-clips/` in the directory you ran it from, so each show keeps its own renders. Everything else (knowledge, presets, assets, clip history, cache) lives in one managed folder that follows you between directories. Set `PODCLI_OUTPUT` to render somewhere fixed instead.\n\n## What you get\n\n**Clips**\n\n- 9:16, 16:9, or 1:1, with captions sized for each canvas\n- Face tracking that follows the speaker, split-screen layouts included\n- Multi-segment cuts that drop filler, long pauses, and tangents\n- Four caption styles: branded, hormozi, karaoke, subtle\n- Logos, intros, outros, and background music from a reusable asset library\n- Loudness-normalized audio and hardware encoding on VideoToolbox, NVENC, and VAAPI, with a CPU fallback\n\n**Finding the moments**\n\n- Whisper transcription with speaker diarization, or bring your own transcript as `.txt`, `.srt`, or `.vtt`\n- AssemblyAI as an alternative engine, and yt-dlp to pull an episode straight from a URL\n- AI scoring against your knowledge base, checked against your episode database so it stops resuggesting moments you already published\n- Audio energy and laughter detection to build highlight reels\n\n**The studio at `localhost:3847`**\n\n- Library, episode workspace, per-clip detail, highlights, thumbnails, content, analytics, assets, knowledge, config, integrations, and MCP setup\n- `\u2318K` command palette across pages, clips, and assets\n- Titles, descriptions, tags, and hashtags, with any section regenerated on your own guidance\n- Thumbnail studio for 16:9 and 9:16, with frame and text options\n- Transcript corrections that carry through to every render\n\n**Shipping it**\n\n- 26 MCP tools, so an agent can transcribe, score, render, and publish through conversation\n- YouTube publishing plus performance analytics to see which clips landed\n- DaVinci Resolve export as FCPXML when you want to finish by hand\n- Presets, clip history with duplicate detection, and a transcript cache\n\n## Why podcli\n\nIf you are weighing podcli against the cloud clippers, this is the difference:\n\n- Runs locally. Transcription and rendering happen on your machine by default, so episodes stay there. Only the optional cloud engine (AssemblyAI) and publishing to YouTube send anything out.\n- Free and open source under AGPL-3.0. Exports are unlimited, full quality, and watermark-free.\n- Agent-native. 26 MCP tools let Claude Code or Codex drive the whole flow, transcription through publishing.\n- A knowledge base keeps titles, captions, and descriptions in your show's voice, and stops the engine from resuggesting moments you already published.\n- DaVinci Resolve handoff. Export any clip as FCPXML when you want to finish the edit yourself.\n\n## Use it from your agent\n\npodcli is an [MCP](https://modelcontextprotocol.io) server, so an agent can transcribe, suggest clips, and render them through conversation.\n\n```bash\npodcli mcp install    # registers it with Claude Code\n```\n\nClaude Desktop and Codex setup is in the [MCP docs](https://podcli.com/docs/mcp-server).\n\n## Content workflow\n\n[PodStack](https://github.com/nmbrthirteen/podstack) ships with podcli as a set of Claude Code slash commands. They take a transcript to a publish-ready package: scored moments, titles, descriptions, thumbnail briefs, a brand review, and a publish checklist.\n\n```\n/produce-shorts\n```\n\nThe commands live in `.claude/commands/`. [CLAUDE.md](CLAUDE.md) describes each one.\n\n## Docs\n\n| Guide | What's in it |\n| ----- | ------------ |\n| [Getting started](https://podcli.com/docs) | Install, first episode, the whole flow |\n| [The studio](https://podcli.com/docs/the-studio) | Web UI: library, episodes, content, highlights |\n| [CLI](https://podcli.com/docs/cli) | Commands, flags, presets, assets |\n| [MCP server](https://podcli.com/docs/mcp-server) | Agent setup and available tools |\n| [Captions and formats](https://podcli.com/docs/captions-and-formats) | Styles, aspect ratios, cropping |\n| [Configuration](docs/configuration.md) | Environment variables, config profiles, transcript format |\n\nDocs are open source at [nmbrthirteen/podcli-docs](https://github.com/nmbrthirteen/podcli-docs).\n\n## Contributing\n\nSee [CONTRIBUTING.md](CONTRIBUTING.md) for the dev setup and conventions, and [RELEASE.md](RELEASE.md) for how releases are cut.\n\n## Credits\n\nContent workflow powered by [PodStack](https://github.com/nmbrthirteen/podstack), inspired by [gstack](https://github.com/garrytan/gstack) by Garry Tan.\n\n## License\n\nAGPL-3.0. See [LICENSE](LICENSE).\n\nNeed podcli without AGPL terms? A commercial license is available. Email [siradze@nikusha.me](mailto:siradze@nikusha.me) with a one-line description of your use case.\n"
+  },
+  {
+    "repo": "swathigampa354-ship-it/viral-edit-output-20261015093511",
+    "description": null,
+    "private": true,
+    "branch": "master",
+    "url": "https://github.com/swathigampa354-ship-it/viral-edit-output-20261015093511",
+    "stars": 0,
+    "language": null,
+    "file_count": 6,
+    "key_files": [
+      {
+        "path": "final.mp4",
+        "size": 372080
+      },
+      {
+        "path": "style2.mp4",
+        "size": 371646
+      },
+      {
+        "path": "style3.mp4",
+        "size": 372239
+      },
+      {
+        "path": "style4.mp4",
+        "size": 371628
+      },
+      {
+        "path": "style5.mp4",
+        "size": 369660
+      },
+      {
+        "path": "video.mp4",
+        "size": 2817931
+      }
+    ]
+  },
+  {
+    "repo": "swathigampa354-ship-it/deepseek-openai-title-variants",
+    "description": "50 title variants of the same short video (1080x1920, 30fps)",
+    "private": false,
+    "branch": "main",
+    "url": "https://github.com/swathigampa354-ship-it/deepseek-openai-title-variants",
+    "stars": 0,
+    "language": null,
+    "file_count": 108,
+    "key_files": [
+      {
+        "path": "README.md",
+        "size": 3150
+      },
+      {
+        "path": "batch2/README.md",
+        "size": 2702
+      },
+      {
+        "path": "tagline_manifest.txt",
+        "size": 2166
+      },
+      {
+        "path": "titles.txt",
+        "size": 1616
+      }
+    ],
+    "readme_text": "# DeepSeek vs OpenAI \u2014 50 Title Variants\n\n50 versions of the same short video; only the headline text differs.\n\n- Format: 1080\u00d71920, 30 fps, H.264 + AAC, 15.53 s each\n- Font: DejaVu Sans Bold 60 px, white with black outline (5 px), word \"DeepSeek\" highlighted yellow\n- Position: top black bar, centered\n\n| File | Title |\n|---|---|\n| videos/vid_01.mp4 | OpenAI Should Fear DeepSeek |\n| videos/vid_02.mp4 | Is DeepSeek Threatening OpenAI? |\n| videos/vid_03.mp4 | Why Sam Altman Isn't Panicking |\n| videos/vid_04.mp4 | DeepSeek vs OpenAI: The Real Battle |\n| videos/vid_05.mp4 | Is DeepSeek Catching OpenAI? |\n| videos/vid_06.mp4 | Sam Altman's DeepSeek Strategy |\n| videos/vid_07.mp4 | DeepSeek Just Changed the AI Game |\n| videos/vid_08.mp4 | Why DeepSeek Has OpenAI Watching |\n| videos/vid_09.mp4 | OpenAI vs DeepSeek: Who Wins? |\n| videos/vid_10.mp4 | DeepSeek Is Coming for OpenAI |\n| videos/vid_11.mp4 | Sam Altman's Response to DeepSeek |\n| videos/vid_12.mp4 | Is OpenAI Losing Its AI Lead? |\n| videos/vid_13.mp4 | DeepSeek's Biggest Threat to OpenAI |\n| videos/vid_14.mp4 | Why DeepSeek Has Silicon Valley Worried |\n| videos/vid_15.mp4 | OpenAI's Battle With DeepSeek |\n| videos/vid_16.mp4 | DeepSeek Just Challenged OpenAI |\n| videos/vid_17.mp4 | Can OpenAI Stop DeepSeek? |\n| videos/vid_18.mp4 | Sam Altman vs the DeepSeek Wave |\n| videos/vid_19.mp4 | DeepSeek Is Playing a Different Game |\n| videos/vid_20.mp4 | OpenAI's Secret Weapon Against DeepSeek |\n| videos/vid_21.mp4 | Why DeepSeek Could Change AI Forever |\n| videos/vid_22.mp4 | DeepSeek vs ChatGPT: The Bigger Fight |\n| videos/vid_23.mp4 | Is DeepSeek Actually Better? |\n| videos/vid_24.mp4 | OpenAI Has a DeepSeek Problem |\n| videos/vid_25.mp4 | The AI War Just Got Bigger |\n| videos/vid_26.mp4 | DeepSeek's Attack on OpenAI |\n| videos/vid_27.mp4 | Sam Altman's Next Move |\n| videos/vid_28.mp4 | Why OpenAI Can't Ignore DeepSeek |\n| videos/vid_29.mp4 | DeepSeek Just Raised the Stakes |\n| videos/vid_30.mp4 | The DeepSeek Threat Explained |\n| videos/vid_31.mp4 | OpenAI's Biggest AI Challenge Yet |\n| videos/vid_32.mp4 | DeepSeek Is Changing the Rules |\n| videos/vid_33.mp4 | Sam Altman Has a DeepSeek Problem |\n| videos/vid_34.mp4 | Can OpenAI Keep Its AI Crown? |\n| videos/vid_35.mp4 | DeepSeek vs OpenAI: What Happens Next? |\n| videos/vid_36.mp4 | Why DeepSeek Is Different |\n| videos/vid_37.mp4 | OpenAI's Fight for AI Dominance |\n| videos/vid_38.mp4 | DeepSeek Just Shocked the AI World |\n| videos/vid_39.mp4 | Sam Altman's Plan to Fight Back |\n| videos/vid_40.mp4 | Is DeepSeek the Next OpenAI? |\n| videos/vid_41.mp4 | DeepSeek Could Rewrite the AI Race |\n| videos/vid_42.mp4 | Why Sam Altman Is Watching DeepSeek |\n| videos/vid_43.mp4 | OpenAI vs DeepSeek: The AI Arms Race |\n| videos/vid_44.mp4 | DeepSeek Just Disrupted OpenAI |\n| videos/vid_45.mp4 | The AI Rival OpenAI Didn't Expect |\n| videos/vid_46.mp4 | DeepSeek Is Coming for ChatGPT |\n| videos/vid_47.mp4 | OpenAI's DeepSeek Moment |\n| videos/vid_48.mp4 | Sam Altman's Biggest AI Challenge |\n| videos/vid_49.mp4 | DeepSeek Could Change OpenAI Forever |\n| videos/vid_50.mp4 | The Real Battle: OpenAI vs DeepSeek |\n"
+  },
+  {
+    "repo": "swathigampa354-ship-it/tiktok-posting-memoir",
+    "description": "Work log, tracking ledger & post history for the atomikgrowth TikTok posting operation (Taisly). No videos, no secrets.",
+    "private": false,
+    "branch": "main",
+    "url": "https://github.com/swathigampa354-ship-it/tiktok-posting-memoir",
+    "stars": 0,
+    "language": null,
+    "file_count": 11,
+    "key_files": [
+      {
+        "path": "README.md",
+        "size": 1143
+      },
+      {
+        "path": "docs/tiktok-account-posting-skill.md",
+        "size": 4414
+      }
+    ],
+    "readme_text": "# TikTok Posting Operations \u2014 Workspace\n\nComplete work log and tracking for the @atomikgrowth TikTok posting operation, run through the Taisly agent API.\n\n| Path | What it is |\n|---|---|\n| [`tiktok_campaign/TRACKING.md`](tiktok_campaign/TRACKING.md) | **MASTER LEDGER** \u2014 every Taisly key \u2192 connected TikTok account (ID + username) \u2192 every post with historyId, time & status |\n| [`tiktok_campaign/MEMOIR.md`](tiktok_campaign/MEMOIR.md) | The memoir \u2014 full work log: strategy, timing research, all campaigns, video inventory, gotchas, open items |\n| [`tiktok_campaign/HISTORY.md`](tiktok_campaign/HISTORY.md) | Machine-usable post history (historyIds for status checks) |\n| [`uploads/SKILL (5) (1).md`](uploads/SKILL%20(5)%20(1).md) | Original TikTok Account Posting Skill (Taisly agent guide v0.2.8) |\n| [`docs/tiktok-account-posting-skill.md`](docs/tiktok-account-posting-skill.md) | Same skill guide, clean filename copy |\n\n**Not included (by design):** video media (lives in the source repo `swathigampa354-ship-it/deepseek-openai-title-variants`, `videos/` folder) and any API keys/tokens \u2014 none are stored in this repository.\n"
+  },
+  {
+    "repo": "swathigampa354-ship-it/agentp",
+    "description": "Taisly Agent Kit: MCP server, CLI, SDK, and agent docs for publishing videos to TikTok, Reels, Shorts, X, and Facebook.",
+    "private": false,
+    "branch": "main",
+    "url": "https://github.com/swathigampa354-ship-it/agentp",
+    "stars": 0,
+    "language": "JavaScript",
+    "file_count": 34,
+    "key_files": [
+      {
+        "path": ".gitignore",
+        "size": 47
+      },
+      {
+        "path": "Dockerfile",
+        "size": 157
+      },
+      {
+        "path": "LICENSE",
+        "size": 1063
+      },
+      {
+        "path": "README.md",
+        "size": 3944
+      },
+      {
+        "path": "SKILL.md",
+        "size": 4414
+      },
+      {
+        "path": "docs/README.md",
+        "size": 483
+      },
+      {
+        "path": "glama.json",
+        "size": 105
+      },
+      {
+        "path": "package.json",
+        "size": 1412
+      },
+      {
+        "path": "server.json",
+        "size": 1036
+      }
+    ],
+    "readme_text": "# TikTok Account Posting Agent Kit\n\nThis repository is a small TikTok-only control tool around the existing Taisly system.\n\nIt keeps the pieces needed for the current workflow:\n\n- authenticate with Taisly,\n- list connected TikTok accounts,\n- connect/check a TikTok account when needed,\n- inspect TikTok posting constraints,\n- validate a local video payload,\n- publish or schedule a TikTok video,\n- check TikTok post history/status,\n- expose the workflow through CLI, MCP, and the SDK/API client.\n\nThis is not the future custom scheduler/backend/database. Videos from GitHub and AI-led scheduling logic will be added later.\n\n## Install\n\n```bash\nnpm install\n```\n\nRun without installing globally:\n\n```bash\nnode src/cli.js help\n```\n\nStart the local stdio MCP server:\n\n```bash\nnode src/cli.js mcp\n```\n\n## Authentication\n\nUse the existing Taisly browser setup flow:\n\n```bash\nnode src/cli.js setup --agent local-agent\n# Open the returned loginUrl and finish authentication.\nnode src/cli.js checkin --agent local-agent\nnode src/cli.js auth:status\n```\n\nManual fallback:\n\n```bash\nexport TAISLY_API_KEY=\"taisly_...\"\n```\n\nNever print or commit API keys.\n\n## CLI workflow\n\nList connected TikTok accounts:\n\n```bash\nnode src/cli.js accounts:list\n```\n\nGet the TikTok posting schema:\n\n```bash\nnode src/cli.js schema\n```\n\nConnect a TikTok account:\n\n```bash\nnode src/cli.js account:connect:start\n# Open the returned connectUrl and finish authorization.\nnode src/cli.js account:connect:check\n```\n\nValidate a TikTok post:\n\n```bash\nnode src/cli.js posts:validate \\\n  --video ./launch.mp4 \\\n  --accounts tiktok_account_id_1,tiktok_account_id_2 \\\n  --description \"Launch day\"\n```\n\nPublish now:\n\n```bash\nnode src/cli.js posts:create \\\n  --video ./launch.mp4 \\\n  --accounts tiktok_account_id_1,tiktok_account_id_2 \\\n  --description \"Launch day\"\n```\n\nSchedule for later:\n\n```bash\nnode src/cli.js posts:create \\\n  --video ./launch.mp4 \\\n  --accounts tiktok_account_id_1,tiktok_account_id_2 \\\n  --description \"Launch day\" \\\n  --scheduled \"2026-06-14T09:00:00+07:00\"\n```\n\nCheck status/history:\n\n```bash\nnode src/cli.js posts:list --page 1\nnode src/cli.js posts:status --id <historyId>\n```\n\n## JSON payload\n\n```json\n{\n  \"video\": \"./launch.mp4\",\n  \"accounts\": [\"tiktok_account_id_1\", \"tiktok_account_id_2\"],\n  \"description\": \"Launch day. Short demo, big update.\",\n  \"scheduled\": \"2026-06-14T09:00:00+07:00\"\n}\n```\n\n```bash\nnode src/cli.js posts:validate --json ./campaign.json\nnode src/cli.js posts:create --json ./campaign.json\n```\n\nThe `video` path must point to a real local file available to the agent. Supported local preflight extensions are `.mp4`, `.mov`, `.avi`, `.mkv`, `.webm`, `.flv`, `.mpeg`, and `.mpg`.\n\n## Final CLI command list\n\n```text\nsetup --agent <agent>\ncheckin --agent <agent>\nauth:status\naccounts:list\nschema\naccount:connect:start\naccount:connect:check\nposts:validate\nposts:create\nposts:list\nposts:status\nmcp\n```\n\n## MCP tools\n\nThe local MCP server exposes only the tools needed for TikTok account posting:\n\n- `taisly_agent_setup_start`\n- `taisly_agent_checkin`\n- `taisly_auth_status`\n- `taisly_accounts_list`\n- `taisly_schema`\n- `taisly_account_connect_start`\n- `taisly_account_connect_check`\n- `taisly_posts_validate`\n- `taisly_posts_create`\n- `taisly_posts_status`\n- `taisly_posts_list`\n\n`taisly_posts_create` requires `confirmed: true`. Set it only after the user explicitly approves the TikTok account, video, caption, and schedule.\n\n## What this fork is not\n\n- It is not the future custom scheduler.\n- It is not a replacement backend or database.\n- It is not a browser automation worker.\n- It is not a TikTok account/profile manager.\n- It does not import videos from GitHub yet.\n- It does not bypass TikTok rules, account permissions, authentication checks, or media validation.\n\n## Safety workflow\n\nUse this order for agent-controlled posting:\n\n```text\nauth -> list TikTok accounts -> TikTok schema -> validate -> confirm -> create -> status\n```\n"
+  },
+  {
+    "repo": "swathigampa354-ship-it/AutoSocial",
+    "description": "AI-controlled social media automation MCP platform (TikTok campaigns, schedules, agent-browser worker)",
+    "private": false,
+    "branch": "main",
+    "url": "https://github.com/swathigampa354-ship-it/AutoSocial",
+    "stars": 0,
+    "language": "TypeScript",
+    "file_count": 179,
+    "key_files": [
+      {
+        "path": ".dockerignore",
+        "size": 100
+      },
+      {
+        "path": ".env.example",
+        "size": 1227
+      },
+      {
+        "path": ".gitattributes",
+        "size": 19
+      },
+      {
+        "path": ".gitignore",
+        "size": 364
+      },
+      {
+        "path": "ARCHITECTURE.md",
+        "size": 756
+      },
+      {
+        "path": "Dockerfile.api",
+        "size": 271
+      },
+      {
+        "path": "Dockerfile.worker",
+        "size": 469
+      },
+      {
+        "path": "Dockerfile.worker.browser",
+        "size": 805
+      },
+      {
+        "path": "LICENSE",
+        "size": 1080
+      },
+      {
+        "path": "README.md",
+        "size": 12483
+      },
+      {
+        "path": "SECURITY.md",
+        "size": 378
+      },
+      {
+        "path": "apps/api/package.json",
+        "size": 509
+      },
+      {
+        "path": "apps/mcp-server/package.json",
+        "size": 432
+      },
+      {
+        "path": "apps/worker/package.json",
+        "size": 446
+      },
+      {
+        "path": "docker-compose.yml",
+        "size": 2030
+      },
+      {
+        "path": "package-lock.json",
+        "size": 179837
+      },
+      {
+        "path": "package.json",
+        "size": 1410
+      },
+      {
+        "path": "packages/campaign-engine/package.json",
+        "size": 323
+      },
+      {
+        "path": "packages/core/package.json",
+        "size": 548
+      },
+      {
+        "path": "packages/database/package.json",
+        "size": 348
+      },
+      {
+        "path": "packages/queue/package.json",
+        "size": 363
+      },
+      {
+        "path": "packages/scheduler/package.json",
+        "size": 317
+      },
+      {
+        "path": "packages/shared/package.json",
+        "size": 301
+      },
+      {
+        "path": "packages/storage/package.json",
+        "size": 353
+      },
+      {
+        "path": "tsconfig.base.json",
+        "size": 434
+      },
+      {
+        "path": "tsconfig.json",
+        "size": 287
+      },
+      {
+        "path": "vercel.json",
+        "size": 209
+      },
+      {
+        "path": "vitest.config.ts",
+        "size": 1005
+      }
+    ],
+    "readme_text": "# Social MCP\n\nAI-controlled social media automation platform. An agent talks to **high-level MCP tools**; a campaign engine, PostgreSQL, Redis/BullMQ, and an `agent-browser` worker decide *how* to post.\n\nTikTok is the first platform. The data model already has Instagram, YouTube, X, and Facebook.\n\nThis is a new TypeScript system. It reuses *concepts* from [AutoSocial Studio](https://github.com/Katzca/AutoSocial) (MIT) \u2014 isolated per-account sessions, queues, a posting daemon \u2014 and does **not** copy that repository. See [docs/ATTRIBUTION.md](docs/ATTRIBUTION.md).\n\n---\n\n## Project overview\n\nThe AI agent says what it wants:\n\n> Create campaign Alpha. Add these campaign videos and these normal videos. Assign Alpha to 20 TikTok accounts. Use a 3 campaign / 1 normal pattern. Post twice a day. Generate a 7-day schedule.\n\nThe MCP server performs the calculations. The agent never clicks through TikTok for normal operations.\n\n```\nAI Agent\n  \u2502\n  \u251c\u2500\u2500 Social MCP   (high-level tools: campaigns, schedules, posts)\n  \u2514\u2500\u2500 agent-browser MCP   (debug / manual login only)\n\nSocial MCP\n  \u2192 PostgreSQL (source of truth)\n  \u2192 Campaign engine (pattern cursor per account)\n  \u2192 Scheduler (per-account posting times)\n  \u2192 Redis + BullMQ\n  \u2192 Posting worker\n  \u2192 agent-browser (isolated session per account)\n  \u2192 TikTok\n```\n\n---\n\n## Architecture\n\n```\napps/\n  api/            REST management API (Vercel-compatible)\n  mcp-server/     High-level MCP tools over stdio\n  worker/         BullMQ workers + agent-browser + TikTok adapter\npackages/\n  shared/         types, config, errors, auth\n  database/       Prisma client\n  campaign-engine/  3 campaign / 1 normal (configurable)\n  scheduler/      staggered posting times\n  queue/          BullMQ + lock helpers\n  storage/        local + S3 video/session storage\n  core/           domain services used by API and MCP\nprisma/           schema + SQL migrations\n```\n\n### Campaign pattern\n\nDefault:\n\n```json\n{ \"pattern\": [\"campaign\", \"campaign\", \"campaign\", \"normal\"] }\n```\n\nEach TikTok account stores `campaign_pattern_position` in PostgreSQL.\n\n| Post status   | Pattern cursor                         |\n|---------------|----------------------------------------|\n| pending/queued/processing | reserved on the post, cursor unchanged |\n| posted        | cursor confirmed (`position + 1`)      |\n| failed        | retry **the same post** first          |\n| unknown       | **do not** auto-retry (duplicate risk) |\n| cancelled     | reservation released, cursor unchanged |\n\nThe cursor survives process restart, worker crash, and paused schedules because it lives in the database, not in memory.\n\n### Posting frequency\n\nDefault: **2 posts/day** per account.\n\nTimes are per account, not global:\n\n- Account 1 \u2192 `10:00`, `18:00`\n- Account 2 \u2192 `11:30`, `20:00`\n\nIf two accounts share a time, the scheduler adds a 1-minute stagger so workers do not collide.\n\n---\n\n## Installation\n\nRequires Node.js 20+.\n\n```bash\ngit clone https://github.com/swathigampa354-ship-it/AutoSocial.git\ncd AutoSocial\ncp .env.example .env\nnpm install\n```\n\n---\n\n## Environment variables\n\nSee `.env.example`. Required for local use:\n\n| Variable | Purpose |\n|----------|---------|\n| `DATABASE_URL` | PostgreSQL |\n| `REDIS_URL` | Redis / BullMQ |\n| `API_SECRET` | API + MCP access key |\n| `OBJECT_STORAGE_PROVIDER` | `local` or `s3` |\n| `LOCAL_STORAGE_DIR` | Dev video storage |\n| `SESSION_STORAGE_DIR` | Encrypted session blobs (references only in DB) |\n| `SESSION_ENCRYPTION_KEY` | AES-256-GCM key (64-char hex in production) |\n| `AGENT_BROWSER_PATH` | `agent-browser` binary |\n| `S3_*` | Used when provider is `s3` |\n\nDo not put browser cookies, session JSON, or API secrets in git.\n\n---\n\n## Database setup\n\n```bash\ndocker compose up -d postgres redis\nnpx prisma migrate deploy --schema prisma/schema.prisma\nnpx prisma generate --schema prisma/schema.prisma\n```\n\n---\n\n## Redis setup\n\n```bash\ndocker compose up -d redis\n# REDIS_URL=redis://localhost:6379\n```\n\nThe database is the source of truth. Redis only holds jobs. A restart re-enqueues due `pending` posts.\n\n---\n\n## Running locally\n\n```bash\ncp .env.example .env\ndocker compose up -d postgres redis\nnpx prisma migrate deploy\nnpm run dev:api        # http://localhost:3000\nnpm run dev:worker     # posting + scheduler poll\nnpm run dev:mcp        # stdio MCP server (spawned by the agent)\n```\n\nOr all containers:\n\n```bash\ndocker compose up --build\n```\n\nThe default worker image does **not** include Chrome. Live TikTok publishing needs `Dockerfile.worker.browser` or a host with `agent-browser install`.\n\n---\n\n## Running the worker\n\n```bash\nnpm run dev:worker\n```\n\nFlow when a post is due:\n\n1. Scheduler poll finds `pending` posts with `scheduled_at <= now`\n2. Account must be active and not paused\n3. Post is locked `pending \u2192 queued \u2192 processing` (compare-and-set)\n4. Worker loads **that account\u2019s** encrypted session\n5. `agent-browser --session social-<accountId>`\n6. TikTok upload workflow\n7. Verify result\n   - success \u2192 `posted`, cursor advances\n   - clear failure \u2192 `failed`, retry same post\n   - uncertain \u2192 `unknown`, **no automatic republish**\n\nIf the worker dies mid-publish, recovery marks the row `unknown` after 15 minutes so a second worker cannot double-post.\n\n---\n\n## Running the MCP server\n\n```bash\nnpm run dev:mcp\n```\n\nStdio JSON-RPC. The process inherits `DATABASE_URL` / `REDIS_URL` from the environment.\n\n---\n\n## Connecting an AI agent\n\n### Claude Desktop / Cursor\n\nCopy [scripts/mcp-claude-desktop.json](scripts/mcp-claude-desktop.json) into the client config (update paths and secrets):\n\n```json\n{\n  \"mcpServers\": {\n    \"social-mcp\": {\n      \"command\": \"npx\",\n      \"args\": [\"tsx\", \"/absolute/path/to/apps/mcp-server/src/server.ts\"],\n      \"env\": {\n        \"DATABASE_URL\": \"postgresql://social:social@localhost:5432/social_mcp?schema=public\",\n        \"REDIS_URL\": \"redis://localhost:6379\"\n      }\n    },\n    \"agent-browser\": {\n      \"command\": \"agent-browser\",\n      \"args\": [\"mcp\"]\n    }\n  }\n}\n```\n\nKeep **Social MCP** and **agent-browser MCP** as separate servers.\n\n- Social MCP = production scheduling\n- agent-browser MCP = headed login, debugging, selector inspection\n\n### High-level tools\n\nAccount: `social_create_account`, `social_list_accounts`, `social_get_account`, `social_update_account`, `social_enable_account`, `social_disable_account`, `social_get_account_status`\n\nVideo: `social_add_video`, `social_list_videos`, `social_get_video`, `social_delete_video`\n\nCampaign: `social_create_campaign`, `social_list_campaigns`, `social_get_campaign`, `social_update_campaign`, `social_add_campaign_video`, `social_assign_campaign_to_accounts`, `social_set_campaign_pattern`, `social_get_campaign_status`\n\nSchedule: `social_generate_schedule`, `social_schedule_post`, `social_get_schedule`, `social_pause_schedule`, `social_resume_schedule`, `social_cancel_post`\n\nPost: `social_create_post`, `social_get_post`, `social_get_post_status`, `social_retry_post`\n\nStatus: `social_get_system_status`, `social_get_account_statistics`, `social_get_campaign_statistics`, `social_get_failed_posts`\n\nAgent ops: `social_setup_campaign`, `social_get_next_actions`, `social_get_recommendations`\n\n---\n\n## Adding accounts\n\n```bash\ncurl -X POST http://localhost:3000/accounts \\\n  -H \"x-api-key: $API_SECRET\" \\\n  -H \"content-type: application/json\" \\\n  -d '{\"username\":\"brand_one\",\"timezone\":\"Asia/Calcutta\",\"postingTimes\":[\"10:00\",\"18:00\"]}'\n```\n\nOr via MCP: `social_create_account`.\n\nThen capture a TikTok login **once** (headed, not production scheduling):\n\n```bash\nnpm i -g agent-browser\nagent-browser install\nACCOUNT_ID=<cuid from API>\nagent-browser --session social-$ACCOUNT_ID --restore open https://www.tiktok.com\n# log in manually, then:\nagent-browser --session social-$ACCOUNT_ID state save /tmp/tiktok-state.json\n```\n\nPlace the saved state in session storage (the worker encrypts it when `SESSION_ENCRYPTION_KEY` is set). Database rows only store `storage_reference`, never cookies.\n\n---\n\n## Adding videos\n\nVideos are **not** stored in git.\n\n- Development: `OBJECT_STORAGE_PROVIDER=local`\n- Production: S3-compatible (`S3_ENDPOINT`, `S3_BUCKET`, keys)\n\n`social_add_video` accepts `bytesBase64` or an existing `storageUrl`. Mark each file `campaign` or `normal`.\n\n---\n\n## Creating campaigns\n\n```\nsocial_create_campaign { name: \"Campaign Alpha\" }\nsocial_add_campaign_video { campaignId, videoId }   # repeat\nsocial_assign_campaign_to_accounts { campaignId, accountIds: [...] }\nsocial_set_campaign_pattern { campaignId, pattern: [\"campaign\",\"campaign\",\"campaign\",\"normal\"] }\nsocial_generate_schedule { days: 7 }\n```\n\n---\n\n## Scheduling posts\n\n`social_generate_schedule` walks each account\u2019s posting times, asks the campaign engine for the next content type + video, and inserts idempotent `posts` rows (`acct:<id>:slot:<iso>`). Re-running the tool will not duplicate slots.\n\nPause / resume is per account and does not reset `campaign_pattern_position`.\n\n---\n\n## Campaign pattern explanation\n\nExample, Account A starting at position 0:\n\n1. Campaign\n2. Campaign\n3. Campaign\n4. Normal\n5. Campaign\n\u2026\n\nAccount B can sit at a different cursor. Failed post 3 is retried as post 3 \u2014 the engine does not skip ahead to Normal.\n\n---\n\n## API\n\nAuthenticated with `x-api-key` or `Authorization: Bearer`. `/health` is open.\n\n- `/accounts`\n- `/campaigns`\n- `/videos`\n- `/posts`\n- `/schedules`\n- `/status`\n\nValidation is Zod. Errors return `{ error, message }`.\n\n---\n\n## Deployment\n\nDo **not** run the browser worker as a Vercel serverless function.\n\n```\nVercel\n  \u251c\u2500\u2500 API\n  \u251c\u2500\u2500 MCP HTTP endpoint (future)\n  \u251c\u2500\u2500 Dashboard\n  \u2514\u2500\u2500 Webhooks\n\nPersistent infrastructure\n  \u251c\u2500\u2500 PostgreSQL\n  \u251c\u2500\u2500 Redis\n  \u2514\u2500\u2500 Object storage (S3)\n\nWorker environment (pick one)\n  \u251c\u2500\u2500 VPS / Docker\n  \u251c\u2500\u2500 Render / Railway worker\n  \u251c\u2500\u2500 container job\n  \u2514\u2500\u2500 Vercel Sandbox (future)\n```\n\nAPI entrypoint: `apps/api/src/vercel.ts`.\n\n---\n\n## Security notes\n\n- Management API is not public without `API_SECRET`.\n- Browser session files are encrypted at rest when `SESSION_ENCRYPTION_KEY` is set.\n- Session JSON is never logged. Cookie-like keys are redacted.\n- Sessions are isolated: `social-<accountId>`. Using account A\u2019s session for account B throws.\n- Do not commit `.env`, `storage/sessions`, or agent-browser state.\n\n---\n\n## Content shortage (STRICT)\n\nIf a pattern slot needs `normal` and no ready normal video exists, schedule generation **refuses to create posts**. Campaign videos are never substituted. Policy is `STRICT` (no silent FALLBACK).\n\n## Account locking\n\nWorkers take Redis lock `lock:account:{accountId}` so two browser sessions cannot post as the same TikTok account at once.\n\n## Known limitations\n\n- **Live TikTok publishing has not been verified** in this environment. The adapter implements the workflow and stops cleanly when no session exists.\n- TikTok Studio UI changes. Selectors live in `apps/worker/src/tiktok/selectors.ts` only.\n- Instagram / YouTube / X / Facebook are schema-ready, not implemented.\n- MCP is stdio. There is no hosted MCP HTTP gateway yet.\n- Default Docker worker image has no Chrome; use `Dockerfile.worker.browser`.\n- Caption/language localization of TikTok UI may require extending `publishNames`.\n\n---\n\n## Troubleshooting\n\n| Symptom | What to do |\n|---------|------------|\n| `prisma migrate` fails | Postgres not up; check `DATABASE_URL` |\n| Worker idle | Redis down, or accounts `schedulePaused` / `DISABLED` |\n| Posts stuck `processing` | Wait 15m for unknown recovery, inspect logs, **do not** force retry if status is `unknown` |\n| `unknown` status | Verify on TikTok manually. Never auto-repost. |\n| Session expired | Headed re-login with agent-browser for that account id only |\n| `agent-browser binary not found` | `npm i -g agent-browser && agent-browser install` |\n| Duplicate key on generate | Harmless \u2014 idempotency reused the existing slot |\n\n---\n\n## Tests\n\n```bash\nnpm test\n```\n\nCoverage:\n\n- Campaign engine: 3+1 loop, persistence, failed retry, unknown block\n- Scheduler: 7-day / 2-per-day, stagger, past-slot skip, idempotency keys\n- Locks: two workers cannot publish the same post\n- Account isolation: session A never binds to account B\n- API: auth, validation, error mapping\n\n---\n\n## Tech stack\n\nTypeScript, Node.js 20, PostgreSQL, Prisma, Redis, BullMQ, MCP SDK, agent-browser, Zod, Express, local/S3 storage.\n\nNo deviations from the recommended architecture. `node-cron` is not used.\n"
+  },
+  {
+    "repo": "swathigampa354-ship-it/social-mcp",
+    "description": "AI-controlled social media automation MCP platform (TikTok campaigns, schedules, agent-browser worker)",
+    "private": false,
+    "branch": "main",
+    "url": "https://github.com/swathigampa354-ship-it/social-mcp",
+    "stars": 0,
+    "language": "TypeScript",
+    "file_count": 179,
+    "key_files": [
+      {
+        "path": ".dockerignore",
+        "size": 100
+      },
+      {
+        "path": ".env.example",
+        "size": 1227
+      },
+      {
+        "path": ".gitattributes",
+        "size": 19
+      },
+      {
+        "path": ".gitignore",
+        "size": 364
+      },
+      {
+        "path": "ARCHITECTURE.md",
+        "size": 756
+      },
+      {
+        "path": "Dockerfile.api",
+        "size": 271
+      },
+      {
+        "path": "Dockerfile.worker",
+        "size": 469
+      },
+      {
+        "path": "Dockerfile.worker.browser",
+        "size": 805
+      },
+      {
+        "path": "LICENSE",
+        "size": 1080
+      },
+      {
+        "path": "README.md",
+        "size": 12483
+      },
+      {
+        "path": "SECURITY.md",
+        "size": 378
+      },
+      {
+        "path": "apps/api/package.json",
+        "size": 509
+      },
+      {
+        "path": "apps/mcp-server/package.json",
+        "size": 432
+      },
+      {
+        "path": "apps/worker/package.json",
+        "size": 446
+      },
+      {
+        "path": "docker-compose.yml",
+        "size": 2030
+      },
+      {
+        "path": "package-lock.json",
+        "size": 179837
+      },
+      {
+        "path": "package.json",
+        "size": 1410
+      },
+      {
+        "path": "packages/campaign-engine/package.json",
+        "size": 323
+      },
+      {
+        "path": "packages/core/package.json",
+        "size": 548
+      },
+      {
+        "path": "packages/database/package.json",
+        "size": 348
+      },
+      {
+        "path": "packages/queue/package.json",
+        "size": 363
+      },
+      {
+        "path": "packages/scheduler/package.json",
+        "size": 317
+      },
+      {
+        "path": "packages/shared/package.json",
+        "size": 301
+      },
+      {
+        "path": "packages/storage/package.json",
+        "size": 353
+      },
+      {
+        "path": "tsconfig.base.json",
+        "size": 434
+      },
+      {
+        "path": "tsconfig.json",
+        "size": 287
+      },
+      {
+        "path": "vercel.json",
+        "size": 209
+      },
+      {
+        "path": "vitest.config.ts",
+        "size": 1005
+      }
+    ],
+    "readme_text": "# Social MCP\n\nAI-controlled social media automation platform. An agent talks to **high-level MCP tools**; a campaign engine, PostgreSQL, Redis/BullMQ, and an `agent-browser` worker decide *how* to post.\n\nTikTok is the first platform. The data model already has Instagram, YouTube, X, and Facebook.\n\nThis is a new TypeScript system. It reuses *concepts* from [AutoSocial Studio](https://github.com/Katzca/AutoSocial) (MIT) \u2014 isolated per-account sessions, queues, a posting daemon \u2014 and does **not** copy that repository. See [docs/ATTRIBUTION.md](docs/ATTRIBUTION.md).\n\n---\n\n## Project overview\n\nThe AI agent says what it wants:\n\n> Create campaign Alpha. Add these campaign videos and these normal videos. Assign Alpha to 20 TikTok accounts. Use a 3 campaign / 1 normal pattern. Post twice a day. Generate a 7-day schedule.\n\nThe MCP server performs the calculations. The agent never clicks through TikTok for normal operations.\n\n```\nAI Agent\n  \u2502\n  \u251c\u2500\u2500 Social MCP   (high-level tools: campaigns, schedules, posts)\n  \u2514\u2500\u2500 agent-browser MCP   (debug / manual login only)\n\nSocial MCP\n  \u2192 PostgreSQL (source of truth)\n  \u2192 Campaign engine (pattern cursor per account)\n  \u2192 Scheduler (per-account posting times)\n  \u2192 Redis + BullMQ\n  \u2192 Posting worker\n  \u2192 agent-browser (isolated session per account)\n  \u2192 TikTok\n```\n\n---\n\n## Architecture\n\n```\napps/\n  api/            REST management API (Vercel-compatible)\n  mcp-server/     High-level MCP tools over stdio\n  worker/         BullMQ workers + agent-browser + TikTok adapter\npackages/\n  shared/         types, config, errors, auth\n  database/       Prisma client\n  campaign-engine/  3 campaign / 1 normal (configurable)\n  scheduler/      staggered posting times\n  queue/          BullMQ + lock helpers\n  storage/        local + S3 video/session storage\n  core/           domain services used by API and MCP\nprisma/           schema + SQL migrations\n```\n\n### Campaign pattern\n\nDefault:\n\n```json\n{ \"pattern\": [\"campaign\", \"campaign\", \"campaign\", \"normal\"] }\n```\n\nEach TikTok account stores `campaign_pattern_position` in PostgreSQL.\n\n| Post status   | Pattern cursor                         |\n|---------------|----------------------------------------|\n| pending/queued/processing | reserved on the post, cursor unchanged |\n| posted        | cursor confirmed (`position + 1`)      |\n| failed        | retry **the same post** first          |\n| unknown       | **do not** auto-retry (duplicate risk) |\n| cancelled     | reservation released, cursor unchanged |\n\nThe cursor survives process restart, worker crash, and paused schedules because it lives in the database, not in memory.\n\n### Posting frequency\n\nDefault: **2 posts/day** per account.\n\nTimes are per account, not global:\n\n- Account 1 \u2192 `10:00`, `18:00`\n- Account 2 \u2192 `11:30`, `20:00`\n\nIf two accounts share a time, the scheduler adds a 1-minute stagger so workers do not collide.\n\n---\n\n## Installation\n\nRequires Node.js 20+.\n\n```bash\ngit clone https://github.com/swathigampa354-ship-it/AutoSocial.git\ncd AutoSocial\ncp .env.example .env\nnpm install\n```\n\n---\n\n## Environment variables\n\nSee `.env.example`. Required for local use:\n\n| Variable | Purpose |\n|----------|---------|\n| `DATABASE_URL` | PostgreSQL |\n| `REDIS_URL` | Redis / BullMQ |\n| `API_SECRET` | API + MCP access key |\n| `OBJECT_STORAGE_PROVIDER` | `local` or `s3` |\n| `LOCAL_STORAGE_DIR` | Dev video storage |\n| `SESSION_STORAGE_DIR` | Encrypted session blobs (references only in DB) |\n| `SESSION_ENCRYPTION_KEY` | AES-256-GCM key (64-char hex in production) |\n| `AGENT_BROWSER_PATH` | `agent-browser` binary |\n| `S3_*` | Used when provider is `s3` |\n\nDo not put browser cookies, session JSON, or API secrets in git.\n\n---\n\n## Database setup\n\n```bash\ndocker compose up -d postgres redis\nnpx prisma migrate deploy --schema prisma/schema.prisma\nnpx prisma generate --schema prisma/schema.prisma\n```\n\n---\n\n## Redis setup\n\n```bash\ndocker compose up -d redis\n# REDIS_URL=redis://localhost:6379\n```\n\nThe database is the source of truth. Redis only holds jobs. A restart re-enqueues due `pending` posts.\n\n---\n\n## Running locally\n\n```bash\ncp .env.example .env\ndocker compose up -d postgres redis\nnpx prisma migrate deploy\nnpm run dev:api        # http://localhost:3000\nnpm run dev:worker     # posting + scheduler poll\nnpm run dev:mcp        # stdio MCP server (spawned by the agent)\n```\n\nOr all containers:\n\n```bash\ndocker compose up --build\n```\n\nThe default worker image does **not** include Chrome. Live TikTok publishing needs `Dockerfile.worker.browser` or a host with `agent-browser install`.\n\n---\n\n## Running the worker\n\n```bash\nnpm run dev:worker\n```\n\nFlow when a post is due:\n\n1. Scheduler poll finds `pending` posts with `scheduled_at <= now`\n2. Account must be active and not paused\n3. Post is locked `pending \u2192 queued \u2192 processing` (compare-and-set)\n4. Worker loads **that account\u2019s** encrypted session\n5. `agent-browser --session social-<accountId>`\n6. TikTok upload workflow\n7. Verify result\n   - success \u2192 `posted`, cursor advances\n   - clear failure \u2192 `failed`, retry same post\n   - uncertain \u2192 `unknown`, **no automatic republish**\n\nIf the worker dies mid-publish, recovery marks the row `unknown` after 15 minutes so a second worker cannot double-post.\n\n---\n\n## Running the MCP server\n\n```bash\nnpm run dev:mcp\n```\n\nStdio JSON-RPC. The process inherits `DATABASE_URL` / `REDIS_URL` from the environment.\n\n---\n\n## Connecting an AI agent\n\n### Claude Desktop / Cursor\n\nCopy [scripts/mcp-claude-desktop.json](scripts/mcp-claude-desktop.json) into the client config (update paths and secrets):\n\n```json\n{\n  \"mcpServers\": {\n    \"social-mcp\": {\n      \"command\": \"npx\",\n      \"args\": [\"tsx\", \"/absolute/path/to/apps/mcp-server/src/server.ts\"],\n      \"env\": {\n        \"DATABASE_URL\": \"postgresql://social:social@localhost:5432/social_mcp?schema=public\",\n        \"REDIS_URL\": \"redis://localhost:6379\"\n      }\n    },\n    \"agent-browser\": {\n      \"command\": \"agent-browser\",\n      \"args\": [\"mcp\"]\n    }\n  }\n}\n```\n\nKeep **Social MCP** and **agent-browser MCP** as separate servers.\n\n- Social MCP = production scheduling\n- agent-browser MCP = headed login, debugging, selector inspection\n\n### High-level tools\n\nAccount: `social_create_account`, `social_list_accounts`, `social_get_account`, `social_update_account`, `social_enable_account`, `social_disable_account`, `social_get_account_status`\n\nVideo: `social_add_video`, `social_list_videos`, `social_get_video`, `social_delete_video`\n\nCampaign: `social_create_campaign`, `social_list_campaigns`, `social_get_campaign`, `social_update_campaign`, `social_add_campaign_video`, `social_assign_campaign_to_accounts`, `social_set_campaign_pattern`, `social_get_campaign_status`\n\nSchedule: `social_generate_schedule`, `social_schedule_post`, `social_get_schedule`, `social_pause_schedule`, `social_resume_schedule`, `social_cancel_post`\n\nPost: `social_create_post`, `social_get_post`, `social_get_post_status`, `social_retry_post`\n\nStatus: `social_get_system_status`, `social_get_account_statistics`, `social_get_campaign_statistics`, `social_get_failed_posts`\n\nAgent ops: `social_setup_campaign`, `social_get_next_actions`, `social_get_recommendations`\n\n---\n\n## Adding accounts\n\n```bash\ncurl -X POST http://localhost:3000/accounts \\\n  -H \"x-api-key: $API_SECRET\" \\\n  -H \"content-type: application/json\" \\\n  -d '{\"username\":\"brand_one\",\"timezone\":\"Asia/Calcutta\",\"postingTimes\":[\"10:00\",\"18:00\"]}'\n```\n\nOr via MCP: `social_create_account`.\n\nThen capture a TikTok login **once** (headed, not production scheduling):\n\n```bash\nnpm i -g agent-browser\nagent-browser install\nACCOUNT_ID=<cuid from API>\nagent-browser --session social-$ACCOUNT_ID --restore open https://www.tiktok.com\n# log in manually, then:\nagent-browser --session social-$ACCOUNT_ID state save /tmp/tiktok-state.json\n```\n\nPlace the saved state in session storage (the worker encrypts it when `SESSION_ENCRYPTION_KEY` is set). Database rows only store `storage_reference`, never cookies.\n\n---\n\n## Adding videos\n\nVideos are **not** stored in git.\n\n- Development: `OBJECT_STORAGE_PROVIDER=local`\n- Production: S3-compatible (`S3_ENDPOINT`, `S3_BUCKET`, keys)\n\n`social_add_video` accepts `bytesBase64` or an existing `storageUrl`. Mark each file `campaign` or `normal`.\n\n---\n\n## Creating campaigns\n\n```\nsocial_create_campaign { name: \"Campaign Alpha\" }\nsocial_add_campaign_video { campaignId, videoId }   # repeat\nsocial_assign_campaign_to_accounts { campaignId, accountIds: [...] }\nsocial_set_campaign_pattern { campaignId, pattern: [\"campaign\",\"campaign\",\"campaign\",\"normal\"] }\nsocial_generate_schedule { days: 7 }\n```\n\n---\n\n## Scheduling posts\n\n`social_generate_schedule` walks each account\u2019s posting times, asks the campaign engine for the next content type + video, and inserts idempotent `posts` rows (`acct:<id>:slot:<iso>`). Re-running the tool will not duplicate slots.\n\nPause / resume is per account and does not reset `campaign_pattern_position`.\n\n---\n\n## Campaign pattern explanation\n\nExample, Account A starting at position 0:\n\n1. Campaign\n2. Campaign\n3. Campaign\n4. Normal\n5. Campaign\n\u2026\n\nAccount B can sit at a different cursor. Failed post 3 is retried as post 3 \u2014 the engine does not skip ahead to Normal.\n\n---\n\n## API\n\nAuthenticated with `x-api-key` or `Authorization: Bearer`. `/health` is open.\n\n- `/accounts`\n- `/campaigns`\n- `/videos`\n- `/posts`\n- `/schedules`\n- `/status`\n\nValidation is Zod. Errors return `{ error, message }`.\n\n---\n\n## Deployment\n\nDo **not** run the browser worker as a Vercel serverless function.\n\n```\nVercel\n  \u251c\u2500\u2500 API\n  \u251c\u2500\u2500 MCP HTTP endpoint (future)\n  \u251c\u2500\u2500 Dashboard\n  \u2514\u2500\u2500 Webhooks\n\nPersistent infrastructure\n  \u251c\u2500\u2500 PostgreSQL\n  \u251c\u2500\u2500 Redis\n  \u2514\u2500\u2500 Object storage (S3)\n\nWorker environment (pick one)\n  \u251c\u2500\u2500 VPS / Docker\n  \u251c\u2500\u2500 Render / Railway worker\n  \u251c\u2500\u2500 container job\n  \u2514\u2500\u2500 Vercel Sandbox (future)\n```\n\nAPI entrypoint: `apps/api/src/vercel.ts`.\n\n---\n\n## Security notes\n\n- Management API is not public without `API_SECRET`.\n- Browser session files are encrypted at rest when `SESSION_ENCRYPTION_KEY` is set.\n- Session JSON is never logged. Cookie-like keys are redacted.\n- Sessions are isolated: `social-<accountId>`. Using account A\u2019s session for account B throws.\n- Do not commit `.env`, `storage/sessions`, or agent-browser state.\n\n---\n\n## Content shortage (STRICT)\n\nIf a pattern slot needs `normal` and no ready normal video exists, schedule generation **refuses to create posts**. Campaign videos are never substituted. Policy is `STRICT` (no silent FALLBACK).\n\n## Account locking\n\nWorkers take Redis lock `lock:account:{accountId}` so two browser sessions cannot post as the same TikTok account at once.\n\n## Known limitations\n\n- **Live TikTok publishing has not been verified** in this environment. The adapter implements the workflow and stops cleanly when no session exists.\n- TikTok Studio UI changes. Selectors live in `apps/worker/src/tiktok/selectors.ts` only.\n- Instagram / YouTube / X / Facebook are schema-ready, not implemented.\n- MCP is stdio. There is no hosted MCP HTTP gateway yet.\n- Default Docker worker image has no Chrome; use `Dockerfile.worker.browser`.\n- Caption/language localization of TikTok UI may require extending `publishNames`.\n\n---\n\n## Troubleshooting\n\n| Symptom | What to do |\n|---------|------------|\n| `prisma migrate` fails | Postgres not up; check `DATABASE_URL` |\n| Worker idle | Redis down, or accounts `schedulePaused` / `DISABLED` |\n| Posts stuck `processing` | Wait 15m for unknown recovery, inspect logs, **do not** force retry if status is `unknown` |\n| `unknown` status | Verify on TikTok manually. Never auto-repost. |\n| Session expired | Headed re-login with agent-browser for that account id only |\n| `agent-browser binary not found` | `npm i -g agent-browser && agent-browser install` |\n| Duplicate key on generate | Harmless \u2014 idempotency reused the existing slot |\n\n---\n\n## Tests\n\n```bash\nnpm test\n```\n\nCoverage:\n\n- Campaign engine: 3+1 loop, persistence, failed retry, unknown block\n- Scheduler: 7-day / 2-per-day, stagger, past-slot skip, idempotency keys\n- Locks: two workers cannot publish the same post\n- Account isolation: session A never binds to account B\n- API: auth, validation, error mapping\n\n---\n\n## Tech stack\n\nTypeScript, Node.js 20, PostgreSQL, Prisma, Redis, BullMQ, MCP SDK, agent-browser, Zod, Express, local/S3 storage.\n\nNo deviations from the recommended architecture. `node-cron` is not used.\n"
+  }
+]

@@ -1,0 +1,100 @@
+swathigampa354-ship-it/genjustsu-android-termux-audit | - | Android/Termux compatibility audit of Genjustsu Open Source Workflow
+swathigampa354-ship-it/tryon-examples | - | Example apps showing how to add real-time virtual try-on with Decart
+swathigampa354-ship-it/my-video | HTML | 
+swathigampa354-ship-it/accessdroid-termux | - | 
+swathigampa354-ship-it/trypost-brag-video | HTML | Video composition work: plan, brief, Hyperframes project, render log
+swathigampa354-ship-it/primitive-image-to-motion | Go | Recreate an image with geometric primitives (4 engines benchmarked) + a CSS motion pass that makes the shapes move forever
+swathigampa354-ship-it/strand-hairtryon | Python | Real-time + recorded virtual try-on (hair, clothing) on a self-hosted open engine - hackathon build
+swathigampa354-ship-it/shareearn | JavaScript | ShareEarn — build and earn from unused bandwidth
+swathigampa354-ship-it/trypost | - | Open-source social media scheduler built for AI agents and the teams behind them. Create, schedule and publish posts to every network through MCP or the REST API, or write them yourself in a composer your team will love.
+swathigampa354-ship-it/media-grabber | - | Media Grabber - a free, open-source video downloader, audio downloader, and tab recorder extension for Chrome.
+swathigampa354-ship-it/youcam-vto-app | TypeScript | Photorealistic live clothes virtual try-on powered by Perfect Corp YouCam API (Clothes V4). Webcam capture + garment upload → YouCam AI try-on result. Built for the YouCam API VTO Hackathon.
+swathigampa354-ship-it/anywear-research-2026-10-24 | TypeScript | Virtual try-on research snapshot
+swathigampa354-ship-it/live-vto-prototype | HTML | Live Virtual Try-On prototype — hairstyles, jewellery, clothing on camera (MediaPipe + Canvas). Built for the YouCam API VTO Hackathon.
+swathigampa354-ship-it/Handy | - | A free, open source, and extensible speech-to-text application that works completely offline.
+swathigampa354-ship-it/termux-gradle-cache-backup | Shell | 
+swathigampa354-ship-it/termux-brainrot-backup | Smali | Backup of ~/rea/brainrot Termux 2026-10-30
+swathigampa354-ship-it/termux-swipewipe-backup | Smali | Backup backup of ~/rea/swipewipe (apktool out, base.apk, git history) Termux 2026-10-30
+swathigampa354-ship-it/termux-android-sdk-backup | - | 
+swathigampa354-ship-it/termux-npm-cache-backup | - | 
+swathigampa354-ship-it/termux-python-cache-backup | - | 
+swathigampa354-ship-it/termux-rust-cache-backup | - | 
+swathigampa354-ship-it/termux-gotall-work-backup | - | Backup proj
+swathigampa354-ship-it/brainrot-rebuild | Kotlin | Compose/Room rebuild of the BrainRot reel-tracking app, derived from static analysis. MIT.
+swathigampa354-ship-it/brainrot-static-analysis | Smali | Static analysis evidence for com.brainrot.android (decompiled sources, notes). Read-only research artifacts.
+swathigampa354-ship-it/swipewipe-rebuild | Kotlin | Native Android rebuild of the Swipewipe gallery app, derived from static analysis. MIT.
+swathigampa354-ship-it/swipewipe-static-analysis | Smali | Static reverse-engineering package: com.afternoonproducts.swipewipe v2.19.00 (52/52 classes, jadx-MCP; google_api_key redacted in committed strings.xml)
+swathigampa354-ship-it/jev-ultrafast | - | Fastest and cheapest web agent
+swathigampa354-ship-it/supoclip | Python | An open-source OpusClip alternative
+swathigampa354-ship-it/APK_swipewipe_lm_arena | Python | 
+swathigampa354-ship-it/build-with-ai-basics-research | - | Hackathon research: repository audit, gap analysis and project-concept research for Devpost Build With AI: Basics (Oct 2026)
+swathigampa354-ship-it/swipewipe-recon | Shell | Swipewipe (com.afternoonproducts.swipewipe) reverse-engineering evidence vault
+swathigampa354-ship-it/ShadowCore | Kotlin | Android-on-Android virtual environment engine. Run isolated Android instances inside your phone — no root required.
+swathigampa354-ship-it/termux-app | Java | Termux - a terminal emulator application for Android OS extendible by variety of packages.
+swathigampa354-ship-it/termux-sidebar-progress | - | 
+swathigampa354-ship-it/vertical-video-edits-2026-10-16 | Python | 9:16 source-driven video editing project and finished exports
+swathigampa354-ship-it/InfiniteTalk | - | ​​Unlimited-length talking video generation​​ that supports image-to-video and video-to-video generation
+swathigampa354-ship-it/tiktok-posting-memoir | - | Work log, tracking ledger & post history for the atomikgrowth TikTok posting operation (Taisly). No videos, no secrets.
+swathigampa354-ship-it/viral-edit-output-20261015093511 | - | 
+swathigampa354-ship-it/awesome-opus5-5-videos | - | A growing collection of viral videos made with Claude Opus 5.5 and the prompts behind them. Watch each original next to a live remake on Skillry. Updated regularly.
+swathigampa354-ship-it/DotDays | Dart | DotDays Life in Dots — Every dot is a day of your life
+swathigampa354-ship-it/LifeGrid | JavaScript | A wallpaper engine that turns life, year, and goal data into beautiful SVG/PNG wallpapers - built with Cloudflare Pages + Workers + resvg-wasm.
+swathigampa354-ship-it/universal-modder | - | Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-generated art/3D/audio, in-game testing, showcase videos.
+swathigampa354-ship-it/Motion2MixamoRig | - | Retarget human motion from video to an Adobe Mixamo-rigged 3D character.
+swathigampa354-ship-it/gridcraft | Rust | GridCraft: an open-source, clean-room spreadsheet (Microsoft Excel-style) in pure Rust. By ArtCraft.
+swathigampa354-ship-it/YouTube-Viewer | - | A multithreaded view bot for YouTube
+swathigampa354-ship-it/deepseek-openai-title-variants | - | 50 title variants of the same short video (1080x1920, 30fps)
+swathigampa354-ship-it/faithwall-india-research | - | FaithWall deep research + India multi-faith Android app plan export
+swathigampa354-ship-it/wardrowbe | TypeScript | Put your wardrobe in rows. Self-hosted AI-powered wardrobe management app.
+swathigampa354-ship-it/PipePipe | Java | An open-source Android app to let you browse YouTube and other services freely. 
+swathigampa354-ship-it/PipePipeClient | - | The client of NewPipeWithMoreServices
+swathigampa354-ship-it/PipePipeExtractor | - | The Extractor of NewPipeWithMoreService
+swathigampa354-ship-it/streambert-workspace-archive | JavaScript | Full workspace archive of the Streambert Android APK build project
+swathigampa354-ship-it/streambert | JavaScript | A cross-platform Electron Desktop App to stream and download any Movie, TV Series or Anime in the World. Zero Ads and Tracking
+swathigampa354-ship-it/clipforge | Python | AI Video Clipping SaaS — Turn long-form videos into viral short-form content
+swathigampa354-ship-it/MovieBox-Tui | - | Terminal interface to find, download, and stream movies, TV shows, and live TV using local media players.
+swathigampa354-ship-it/OPEN-CLAW | - | 
+swathigampa354-ship-it/whisper-android-audit | C++ | Offline Whisper TFLite Android (vilassn/whisper_android) + full pre-implementation technical audit (AUDIT.md)
+swathigampa354-ship-it/termux-debian-rootfs-backup-2 | - | Backup of Termux proot-distro Debian rootfs
+swathigampa354-ship-it/termux-debian-rootfs-backup | - | Backup of Termux proot-distro Debian rootfs
+swathigampa354-ship-it/android-workspace | HTML | Public snapshot of Android app projects, APKs, source archives and research from the workspace. Experimental builds; see project reports.
+swathigampa354-ship-it/podcli | - | Open-source AI podcast clipper. Generate vertical clips with face tracking and burned-in captions. CLI, MCP server, web app.
+swathigampa354-ship-it/tower-building-android | Python | Original Tower Building game packaged for offline Android play with Expo/EAS; APK downloads in Releases.
+swathigampa354-ship-it/tailsy-workbook-arena-20260909090414-701c50 | - | Sanitized Taisly TikTok Arena Agent workbook and runbook
+swathigampa354-ship-it/repot | - | Audit reports and documentation
+swathigampa354-ship-it/social-mcp | TypeScript | AI-controlled social media automation MCP platform (TikTok campaigns, schedules, agent-browser worker)
+swathigampa354-ship-it/llm-council | Python | LLM Council - Multiple AI models answer your questions together
+swathigampa354-ship-it/AutoSocial | TypeScript | AI-controlled social media automation MCP platform (TikTok campaigns, schedules, agent-browser worker)
+swathigampa354-ship-it/agent | JavaScript | 
+swathigampa354-ship-it/Zip | - | 
+swathigampa354-ship-it/f1-3d-grand-prix-experiencey | JavaScript | 
+swathigampa354-ship-it/f1-3d-grand-prix-experience | JavaScript | 
+swathigampa354-ship-it/abyssa | JavaScript | 
+swathigampa354-ship-it/agentp | JavaScript | Taisly Agent Kit: MCP server, CLI, SDK, and agent docs for publishing videos to TikTok, Reels, Shorts, X, and Facebook.
+swathigampa354-ship-it/vscode-files | Shell | 
+swathigampa354-ship-it/netflix-ui-apk | TypeScript | Android APK build of netflix-ui (Expo React Native)
+swathigampa354-ship-it/vpn-extension | JavaScript | ShieldVPN - VPN-style proxy extension for Chrome (MV3), built with chrome.proxy API
+swathigampa354-ship-it/rembg | - | Rembg is a tool to remove images background
+swathigampa354-ship-it/lama | - | 🦙  LaMa Image Inpainting, Resolution-robust Large Mask Inpainting with Fourier Convolutions, WACV 2022
+swathigampa354-ship-it/CodeFormer | - | [NeurIPS 2022] Towards Robust Blind Face Restoration with Codebook Lookup Transformer
+swathigampa354-ship-it/Real-ESRGAN | - | Real-ESRGAN aims at developing Practical Algorithms for General Image/Video Restoration.
+swathigampa354-ship-it/PhotoMaker | - | PhotoMaker [CVPR 2024]
+swathigampa354-ship-it/face_reaging | - | Model for aging face photos up or down.
+swathigampa354-ship-it/MoneyPrinterTurbo | Python | 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.
+swathigampa354-ship-it/netflix-ui | - | 
+swathigampa354-ship-it/reflekt | TypeScript | 
+swathigampa354-ship-it/chat-history | JavaScript | Complete chat history for the Live-Beauty-Score & VirtuFit hackathon projects (transcript + all code). Keys redacted.
+swathigampa354-ship-it/news-agent-api | JavaScript | 
+swathigampa354-ship-it/b | JavaScript | 
+swathigampa354-ship-it/Open-AI-UGC | - | Open AI UGC — free, open-source alternative to Arcads and MakeUGC. Generate AI UGC video ads with realistic AI actors using Veo 3.1, Seedance 2, Grok Video, and Happy Horse 1. Self-host on Next.js + Stripe + MUAPI.
+swathigampa354-ship-it/face-ahead | TypeScript | FACE AHEAD — meet the face you are building. YouCam aging + skin intelligence. 4 YouCam APIs, orchestrated pipeline, honest error bars. YouCam API Hackathon entry.
+swathigampa354-ship-it/face-ahead-v2 | TypeScript | FACE AHEAD — meet the face you're building. YouCam aging + skin intelligence. Apple-style UI refined with Emil Kowalski's design principles.
+swathigampa354-ship-it/future-face | TypeScript | FACE AHEAD — meet the face you are building. YouCam aging + skin intelligence. Hackathon entry.
+swathigampa354-ship-it/glow-skin | TypeScript | Glow — AI Skin Intelligence. Selfie → full skin report (14 concerns, masks, skin age, Fitzpatrick, tone) + personalized routine + progress tracking. Built with 3 YouCam APIs for the YouCam Hackathon.
+swathigampa354-ship-it/chroma | TypeScript | CHROMA - hair transformation copilot. Selfie -> personal hair-color palette, hair profile, and virtual try-on powered by the YouCam AI Beauty API.
+swathigampa354-ship-it/accuserve | - | 
+swathigampa354-ship-it/vision-zero-chicago | Python | 
+swathigampa354-ship-it/live-beauty-score | TypeScript | Live-Beauty-Score — Instant AR makeup + emotion-aware beauty scoring. Built for the YouCam API Skin AI & Apparel VTO Hackathon.
+swathigampa354-ship-it/tryon-studio | TypeScript | TryOn Studio — AI virtual try-on micro product. Frontend-only, privacy-first (nothing stored), powered by fal.ai Kling Kolors Virtual Try-On. Built for the YouCam API Hackathon.
+swathigampa354-ship-it/TiktokAutoUploader | - | Automatically Edits Videos and Uploads to Tiktok with CLI, Requests not Selenium.
+swathigampa354-ship-it/screenshot-to-code | Python | Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)

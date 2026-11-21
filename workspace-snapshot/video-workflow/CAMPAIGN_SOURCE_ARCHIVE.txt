@@ -1,0 +1,723 @@
+ATOMIK GROWTH — DISTRIBUTION CAMPAIGN
+COMPLETE COMBINED TEXT ARCHIVE
+
+CAMPAIGN ID: campaign_1794068492854
+All material below applies to this ONE Distribution campaign, not automatically to other Atomik campaigns.
+
+SOURCES INCLUDED:
+1. Distribution SOP.pdf (full 16-page extracted text)
+2. Distribution_campaign_info_extracted.md (complete extracted campaign info)
+3. Content & Resources screenshot (legible instructions and resource notes)
+4. User-shared campaign instructions, links and clarifications
+
+======================================================================
+SECTION A — CAMPAIGN INFO (EXTRACTED MARKDOWN)
+======================================================================
+
+Distribution campaign — extracted from screenshot
+
+*Source: Slack `# 💲 |campaign-info` channel. The post is from Atomik (APP), dated 11/08/2026 6:33 PM.*
+
+Campaign details
+
+Client: Distribution, a podcast about cutting through the noise, where founders and operators break down the distribution, creator, paid and organic plays behind their GTM and branding.
+
+Hosts: Arthur and Subah, plus a different founder/operator guest each episode.
+
+Platforms: YouTube, Instagram, X (Twitter) only. TikTok is not part of this campaign.
+
+> The best product doesn't win. The best-distributed one does.
+
+Check the current progress of the campaign on the platform.
+
+What your clips are about
+
+Clips must focus on Arthur and Subah and their episodes. Keep the hosts on screen for at least 5–7 seconds in every clip.
+
+Minimum views
+
+You can submit a clip as soon as you upload it. Each clip must cross 1,500 views to be eligible. Once your eligible clips together reach 20,000 views, you get paid out.
+
+Post every week
+
+Post at least 1 clip every week (Monday to Sunday). Miss a week and you get suspended. If you're suspended before hitting 20,000 eligible views, you get no payout, so stay active.
+
+Platform balance
+
+Spread your accepted clips across YouTube, Instagram and X:
+
+- 70% or less on one platform: no penalty.
+- 70–90% on one platform: payout cut by 30%.
+- More than 90% on one platform: payout cut by 45%.
+
+Example with 10 accepted clips: 7 or fewer on one platform is fine, 8–9 is a 30% cut, all 10 is a 45% cut.
+
+US audience CPM boost
+
+Accounts with 30% or more US audience get a boosted $1.25 CPM, based on your approved account demographics.
+
+Main rules
+
+- ✅ Spell Arthur and Subah exactly like that.
+- ✅ Correct spelling and grammar everywhere.
+- ✅ Clean, single-color text; no flashy or neon colors.
+- ✅ You CAN post the same clip on different platforms.
+- ❌ No profanity, sexual, or explicit content, even censored.
+- ❌ No competitor names, comparisons, or bashing.
+- ❌ No misleading claims, or claims about the show, its performance, or its viewers that aren't said in the footage.
+- ❌ No phonk music.
+- ❌ No copying other clippers' work.
+- ❌ Don't post the same clip twice on the same platform, even from different accounts.
+- ❌ No excessive jump cuts, meme spam, or distracting effects.
+
+Content moderation
+
+Some source footage may contain things we don't allow in clips. Do NOT include:
+
+- Profanity or swearing
+- Sexually suggestive or explicit material
+- Controversies, scandals, or lawsuits
+- Politically sensitive, polarizing, or activist content
+- Anything showing a person, group, brand, or company in a negative way
+- Anything that could trigger harassment or backlash
+
+Breaking any of these rules can get your clip rejected and, for repeat or serious violations, get you blacklisted from this and future campaigns and removed from the server.
+
+Nametags
+
+Spell the hosts' names exactly as Arthur and Subah. For guests, use the exact spelling from the episode title or the approved footage. Never guess or invent full names or surnames. Not sure? Ask the team in `#🎟️ |open-a-ticket` before posting. Misspellings can get the clip rejected.
+
+Your account
+
+- Pick a username in the business / tech / startups / growth niche. No profanity or suggestive names.
+- It must not look official. Don't use names like `distribution.clips`, `distribution.unofficial`, `arthur.clips`, or `subah.clips`.
+- Use a generic profile photo that fits your page (a well-known founder, a symbol of business and growth, etc.).
+- Your bio needs a lead line of your own, for example: “The untold stories behind the billion dollar companies”. Don't copy the examples.
+- A new account or a rebranded one from an old Atomik campaign are both fine. Rebranded accounts must be fully archived and set up again.
+
+Attribution — add this to every account
+
+Put the Atomik credit in your YouTube and Instagram descriptions and your X bio:
+
+YouTube  
+Produced by @atomik-growth  
+https://yt.oia.bio/Atomikxdistributionpodcast
+
+Instagram  
+Produced by @atomikgrowth  
+https://insta.oia.bio/Atomikxdistributionshowig
+
+X  
+Produced by @atomikgrowth  
+https://twtr.oia.bio/Atomikxdistributionpod
+
+Tag the official Distribution account
+
+Start your caption with the tag, then 2–3 lines about the clip, then hashtags:
+
+- YouTube: @distributionpodcast
+- Instagram: @distributionshow
+- X: @Distributionpod
+
+Example:
+
+> @distributionpodcast The #1 way to grow on YouTube  
+> #growth #virality #entrepreneurship #content #distribution #creators
+
+No cussing or profanity in captions or titles. Tagging the wrong account can get a post rejected.
+
+Non-campaign clips
+
+Non-campaign clips are not about the campaign. They don't follow the campaign rules; they just fit the same business / tech / startups / growth niche and look like normal, organic posts. This keeps your page natural and gets your campaign clips more reach.
+
+For every 3 campaign clips, post 1 non-campaign clip. This is required for your submissions to be accepted. Non-campaign clips must contain no Distribution footage, logo, name, or any reference to the show, its hosts, or its guests.
+
+See Non-campaign material (linked in the original post).
+
+100K+ views on Instagram?
+
+Send a collab request to @atomik.clips.
+
+Using automated comments?
+
+Open a ticket in `#🎟️ |open-a-ticket` to notify the team before running them. Atomik can take down any post using automated comments.
+
+Full rules
+
+This is the short version. Read the full rules here: Distribution SOP (linked in the original post).
+
+
+======================================================================
+SECTION B — CONTENT & RESOURCES SCREENSHOT + LINKS
+======================================================================
+
+CONTENT & RESOURCES SCREENSHOT — ADDITIONAL TRANSCRIPTION / NOTES
+Source: user-provided screenshot of Atomik Content & Resources channel (78508.jpg).
+This section records readable instructions and notes; tiny embedded Drive URLs were not reliably readable.
+
+CONTENT & RESOURCES
+All clips must focus on Distribution hosts Arthur and Subah and their episodes. Keep them on screen for at least 5–7 seconds.
+
+A-ROLL (YOUR MAIN CLIP)
+Use only official interview footage. Do NOT pull Distribution hosts or guests from YouTube, LinkedIn, podcasts, or conference recordings, even if public. A download link for A-roll appears in the screenshot, but its exact URL is not legible.
+
+B-ROLL
+B-roll is footage used to visualize what the speaker is talking about. Use footage from the linked resources. Generic third-party b-roll must be clearly generic and not show competitor branding or identifiable customers or partners. A B-roll folder link appears but its exact URL is not legible.
+
+INTEGRITY
+- No AI voiceovers, AI avatars, or synthetic recreations of any speaker.
+- No fabricated quotes, stats, or claims.
+- No competitor names, comparisons, or bashing.
+- No misleading claims, excessive effects, or phonk music.
+- Captions must match what is said (light filler cleanup is fine; never change meaning).
+
+DISTRIBUTION LOGOS
+Official Distribution logos are available in dark versions. Download them from the linked resources. Note: the SOP separately prohibits adding the Distribution logo yourself as intro/outro/overlay/thumbnail/end card.
+
+SAFE ZONE TEMPLATE
+Keep text and important elements within safe margins, away from platform UI buttons and captions. The screenshot includes a red-and-white safe-zone template.
+
+ADDITIONAL POST
+Ankurr shared a Google Drive music folder and other Drive resources; exact URLs are unreadable at screenshot resolution. A note indicates non-campaign clips can be sourced from other materials, subject to campaign restrictions.
+
+USER-SHARED RESOURCE LINKS
+Campaign: https://app.atomikgrowth.com/campaign/campaign_1794068492854
+Non-campaign material: https://drive.google.com/drive/folders/1aa8WcJLZ41T4Booq9PTfE1HtPv6-wt0Y?usp=sharing
+Full Distribution SOP (Google Doc): https://docs.google.com/document/d/1yTwogm6K2LVc3vqJGRaR_CI6WSjzi81X_u0o9ObcP-0/edit
+
+SOURCE NOTES / INCONSISTENCIES
+- The original SOP contains apparent template references to Parloa and Cartesia, while the campaign information identifies Distribution. These original references are preserved in the full SOP transcription below rather than silently rewritten.
+- The SOP mentions TikTok in general distribution examples, but the specific campaign's eligible platform list is YouTube, Instagram and X only.
+- The SOP includes two overlapping descriptions of the platform-balance penalty; consult the campaign team for ambiguous edge cases.
+- PDF links displayed only as 'here', '[A-roll]', or 'B-Rolls' may not retain clickable target URLs in plain-text extraction.
+- The Content & Resources screenshot is summarized/transcribed for legible details; it is not a guaranteed verbatim OCR of every pixel.
+
+
+======================================================================
+SECTION C — COMPLETE 16-PAGE DISTRIBUTION SOP PDF TEXT
+======================================================================
+
+Welcome to Atomik Clips
+
+For any clip submission to be reviewed, approved, and compensated,
+strict adherence to these Standard Operating Procedures is imperative.
+Non-compliant accounts or posts will be rejected without exception.
+
+
+Adherence to the Program & Server Rules is mandatory for participation
+in Atomik Clips. Non-compliance will lead to immediate blacklisting
+from this and future campaigns, as well as permanent removal from the
+Atomik Clips server. Please read the rules carefully before
+proceeding:
+
+  Atomik Clips Program Rules
+
+
+--- PDF PAGE BREAK ---
+
+Profile
+
+Account Creation and Verification
+You may choose to create a new account for this campaign or you may
+rebrand an account from a previous Atomik Clips campaign. Please note
+that for rebranded accounts, full compliance with the archiving and
+setup instructions is required to ensure eligibility for rewards.
+
+
+Please go to app.atomikgrowth.com and log-in using your Discord
+account that is linked to the Atomik Clips server.
+
+
+Join the Atomik Clips server here for regular updates.​
+​
+Make sure that none of the accounts you create for this campaign look
+like they are associated with Parloa officially. Do not use usernames
+such as parloa.clips, parloa.unofficial, malte.clips, etc.
+
+
+
+
+Platforms
+The only platforms allowed in this campaign are:
+
+    ●​ YouTube
+    ●​ Instagram
+    ●​ X (Twitter)
+
+
+User Name
+To ensure your account aligns with our campaign standards, please
+select a username focused exclusively on the fintech industry or a
+
+
+--- PDF PAGE BREAK ---
+
+related niche, such as business, tech, wealth, finance, venture
+capital, etc.
+
+
+The use of usernames containing profanity, suggestive language, or any
+content deemed inappropriate is strictly prohibited.
+
+
+
+
+Profile Photo
+When it comes to your profile photo, the sky is the limit! We
+encourage you to select a generic photo that complements your page’s
+unique identity. Whether you choose a portrait of a well-known
+billionaire or a powerful symbol of business and growth, feel free to
+select an image that resonates with your audience.
+
+
+The use of profile photos that contain suggestive, derogatory, or any
+content deemed inappropriate is strictly prohibited.
+
+
+
+
+Bio
+
+Lead Line
+Your page bio must contain a lead line. Your lead line can be
+creative, fun, or curiosity-driven and should not contain profanity or
+any content that is objectively inappropriate.
+
+
+Here are some great examples of lead lines:
+  ●​ Interested in all things tech? You’re in the right place
+  ●​ The untold stories behind the billion dollar companies
+  ●​ The ideas, risks, and decisions behind generational companies
+  ●​ Founders, operators, and the future of finance.
+  ●​ Stories shaping the future of money.
+  ●​ Conversations at the edge of tech, ML, AI
+
+
+Just remember, these are only for inspiration! Be sure to come up with
+your own original line for your actual bio.
+
+
+--- PDF PAGE BREAK ---
+
+Attribution
+A standard Atomik Growth attribution along with openinapp link is
+required across YouTube, X and Instagram. Please include the following
+credit within your YouTube and Instagram descriptions, as well as your
+X bio:
+
+
+YouTube:
+     Produced by @atomik-growth​
+     https://yt.oia.bio/Atomikxdistributionpodcast
+
+
+
+Instagram:
+     Produced by @atomikgrowth
+     https://insta.oia.bio/Atomikxdistributionshowig
+
+
+
+
+X:
+     Produced by @atomikgrowth
+     https://twtr.oia.bio/Atomikxdistributionpod​
+
+
+--- PDF PAGE BREAK ---
+
+Content
+The overall content of clips must be focused on Distribution podcast
+hosts Arthur and Subah and their episodes.
+Keep them in the clip for at least 5-7 seconds. (learn more about
+distribution below)​
+​
+What is Distribution?
+
+
+
+
+Distribution is a show about cutting through the noise. Each episode,
+a founder/operator who's captured attention breaks down how they did
+it. The channels, the creators, the paid and organic plays behind the
+GTM & branding motions everyone noticed.
+
+The best product doesn't win. The best-distributed one does
+
+Nametag note: Spell the hosts' names exactly as "Arthur" and "Subah"
+before adding a nametag. For guests, use the exact name spelling shown
+in the episode title or approved source footage — never guess or
+invent full names or surnames. If a name is unclear, check with the
+team before posting. Misspellings risk rejection at the moderators'
+discretion.
+
+
+--- PDF PAGE BREAK ---
+
+A-Roll
+A-Roll means the main clip that you will be posting.
+
+No footage from any other source may be used as A-roll. Do not pull
+additional clips of Distribution speakers from Youtube, LinkedIn,
+podcasts, conference recordings, or anywhere else, even if they are
+publicly available to be used as A-Roll.
+
+​
+All interview footage accessible via this link must be utilized as the
+primary A-roll for all video clips. The source clips are available for
+download here:
+
+[A-roll]
+
+
+
+
+B-Roll
+B-Roll means footage you use in the middle of the clip to visualise
+what the speaker is saying and to make the final clip more dynamic.
+
+
+B-roll must come from the linked folder. If you use any stock or
+third-party b-roll, it must be clearly generic and must not carry
+Cartesia branding, competitor branding, or any identifiable customer
+or partner.
+
+​
+Available resources may be downloaded from this folder and utilized as
+b-roll footage for your video here: B-Rolls
+
+Please be reminded that some parts of any given resources may contain
+content that we deem inappropriate such as materials that contain but
+not limited to:
+    ●​ profanity/swearing
+    ●​ sexually suggestive or explicit material
+    ●​ controversies
+    ●​ politically sensitive issues
+
+
+--- PDF PAGE BREAK ---
+
+Submissions containing these elements will be subject to rejection at
+the discretion of the moderators. Clippers who repeatedly submit clips
+that violate guidelines will be flagged and subsequently blacklisted
+from participating in the campaign. See Quality Reminders for more
+information.
+
+
+--- PDF PAGE BREAK ---
+
+Posting
+
+Tagging
+All clips posted for this campaign must tag the official Distribution
+social account on the following platforms: Youtube, Instagram and X.
+​
+These accounts should be tagged within the caption of every post on
+YouTube:
+
+
+        @distributionpodcast
+
+
+This account should be tagged within the caption of every post on
+Instagram:
+
+
+        @distributionshow
+
+
+These accounts should be tagged within the caption of every post on X:
+        @Distributionpod​
+        ​
+
+
+
+Any post that tags incorrect accounts will be subject to rejection at
+the moderators' discretion. ​
+
+
+    ​
+Caption
+
+
+--- PDF PAGE BREAK ---
+
+Every clip must have a caption of at least two to three lines that is
+relevant to the clip. After the caption (which would include the
+distribution tag in the starting), add relevant hashtags.
+
+
+For example:
+
+@distributionpodcast The #1 Way to grow in YouTube
+
+
+
+
+#growth #virality #entrepreneurship #content #distribution #creators
+etc.
+
+
+
+
+No Cussing or Profanity in captions/title: Captions/Title must be free
+of cuss words and profanity.
+
+
+
+
+​
+Post across platforms, not just one
+Spread your clips across the platforms you use. If 70% or more of your
+total posts are concentrated on a single platform (YouTube, Instagram,
+TikTok, or X/Twitter), your payout will be reduced by 30%.
+Keep a healthy mix across platforms to receive your full payout.
+
+
+
+Minimum View Threshold
+Clips must reach at least 1,500 views to be eligible for payment.
+
+
+Posting Frequency and Suspension
+All clippers must post at least once every week (a rolling 7-day
+period running Monday to Sunday) for the full duration of the
+campaign. Any clipper who fails to post at least one clip within a
+7-day window will be automatically suspended from the campaign. If you
+have not accumulated at least 20,000 views before being suspended, you
+will not receive any payout.
+
+
+--- PDF PAGE BREAK ---
+
+🇺🇸 US Audience CPM Boost
+​
+
+
+
+Accounts with a higher percentage of US-based audience receive an
+additional CPM boost:
+
+    ●​ 30% or more US audience: $1.25 CPM
+
+The CPM boost is applied based on the US audience percentage of the
+approved account demographics.​
+Payout Caps​
+The payout limit for a clipper for a campaign is 20% of the campaign
+budget.
+
+
+Collaboration Requests
+Any clipper whose clip reaches 100,000 or more views on Instagram must
+send a collaboration (collab) request to @atomik.clips.
+
+Platform Distribution Rule
+
+    ●​ Maximum concentration: No more than 70% of a clipper’s accepted
+      clips may come from a single platform during a payout period.
+    ●​ 70%–90% from one platform: 30% payout reduction will apply.
+    ●​ More than 90% from one platform: 45% payout reduction will apply.
+    ●​ The percentage is calculated based on the clipper’s total
+      accepted clips during the applicable payout period.
+    ●​ The rule applies across platforms, including YouTube, Instagram,
+      TikTok, and other eligible platforms.
+    ●​ Platform distribution will be reviewed at the start of each
+      demographic request and payout cycle.
+    ●​ This rule is intended to encourage clippers to distribute content
+      across multiple platforms rather than relying primarily on one
+      platform.
+
+Example:​
+If 10 clips are accepted:
+
+    ●​ 7 or fewer from one platform → No penalty
+    ●​ 8–9 from one platform → 30% payout reduction
+
+
+--- PDF PAGE BREAK ---
+
+    ●​ 10 from one platform → 45% payout reduction
+
+
+
+
+Automation for Comments
+Clippers who use automated comments must notify the moderation team in
+advance by opening a ticket on the Atomik Clips Discord server before
+running them. Any post using automated comments may be taken down at
+the sole discretion of Atomik, and that decision is final.
+
+
+Non-Campaign Clips
+Non-campaign clips are clips that are not about the campaign. They
+don't need to follow the campaign rules - they just need to fit the
+same niche and look like normal, organic posts. This makes your page
+look natural and gets your campaign clips more reach.
+
+
+Non-campaign clips must not contain distribution footage, the
+distribution logo, the distribution name, or any reference to
+distribution or its customers, partners, executives, or employees. The
+brand safety rules in the Content tab apply to every clip you post on
+a campaign account, campaign or not.
+
+
+For every three campaign clips you post, you must also post one
+non-campaign clip to keep your page or channel healthy. This clip must
+fit the niche of the campaign and your theme page. Meeting this
+requirement is necessary for your submissions to be accepted.
+
+
+You can find non-campaign material here
+
+
+Examples of non campaign clips - this, this, and this.
+
+
+
+
+​
+
+
+--- PDF PAGE BREAK ---
+
+Quality Reminders
+Please ensure that your accounts and your clips adhere to these points
+before submitting:
+
+  ●​ Correct Spelling and Grammar: Ensure all text (including
+     headings, subtitles, names, etc.) is spelled correctly and uses
+     proper grammar.
+  ●​ Avoid Reposting: Please avoid reposting the same clip on a
+     platform where you’ve already shared it. Doing so can cause your
+     clips or account to be flagged for spam. We encourage you to put
+     a little extra effort into making each post feel fresh. Changing
+     things up not only keeps you safe but also helps your content
+     reach a wider audience.
+  ●​ Avoid Plagiarism: We are committed to a community of original
+     creators. To keep things fair, please avoid posting another
+     clipper’s work or replicating their content and claiming it as
+     your original idea. We consider this a serious breach of our
+     community standards. We value your honesty and your unique
+     creativity!
+  ●​ Avoid Cluttered/Flashy Overlays: Use clean, single-color text.
+     Avoid multi-colored, neon, or cluttered overlays. Highlight only
+     a few words for emphasis. Visually appealing and uncluttered
+     clips will hit the right feed and ensure eligibility for the
+     campaign. In short, less is more.​
+     Do not use any distribution brand font or brand color for that
+     text. See Visual Identity in the Content tab.
+  ●​ Avoid Cursing or Offensive Language in Titles/Hooks: Keep titles
+     and hooks clean and professional — no profanity, slurs, or
+     offensive language of any kind, even if censored or partially
+     masked. This includes innuendo or edgy phrasing meant to bait
+
+
+--- PDF PAGE BREAK ---
+
+      clicks through shock value. Clean, respectful language keeps the
+      clip eligible for the widest possible distribution and protects
+      it from getting flagged or suppressed by the platform. In short,
+      keep it clean.
+    ●​ Your content and account should not contain:
+         ○​ depictions of any person, group, organization, brand, or
+            service in a negative manner
+         ○​ content that is objectively misleading or out-of-place
+         ○​ excessive jump cuts, meme spam, or distracting effects
+         ○​ politically sensitive, polarizing, or activist content
+         ○​ references to scandals, lawsuits, or controversies
+         ○​ content that could trigger harassment, brigading, or
+            backlash
+         ○​ any material that can be deemed not safe for work, including
+            but not limited to:
+              ■​ censored or uncensored profanity
+              ■​ any sexually suggestive or explicit material​
+                 ​     ​    ​     ​    ​     ​      ​   ​
+    ●​ competitor comparisons, competitor naming, or competitor bashing
+    ●​ the distribution logo placed by you as an intro, outro, overlay,
+      thumbnail, or end card
+    ●​ claims about distributions show, content, performance, or viewers
+      that are not stated in the footage
+​
+Clips that violate these quality standards will be subject to
+rejection at the moderators' discretion.
+
+
+Don’t Not Use Phonk Music in your clips
+
+
+Clips that appear as low-effort and fail to meet basic requirements
+explicitly mentioned in this brief will not be compensated. In
+layman's terms, do your best!
+
+
+--- PDF PAGE BREAK ---
+
+Help & Support
+We are here to help! If you need assistance, reach out to us by going
+to the # support channel in the Cartesia campaign server where you’ll
+find a dedicated space there created specifically to help you succeed.
+
+
+
+
+Ticket
+If you have any inquiries, whether related to technical issues,
+payment issues or general support, please reach out to our support
+team by opening a ticket on the Cartesia Discord server.
+
+
+Here’s a step-by step guide on how to open a ticket:
+  1.​On the Atomik Clips server, open the channel #    🎟️┃support
+  2.​Click the   📥 Open a ticket! button
+
+
+--- PDF PAGE BREAK ---
+
+  3.​You’ll see a prompt appear like the one below: ​
+
+
+
+
+                                                     ​
+       Simply share your question in the field provided. ​
+       Once done, click Submit.
+  4.​After you click Submit, your new ticket will appear right here in
+       the channel. Simply click the #ticket-number link to head
+       straight to your private conversation with one of our moderators.
+
+
+Once we’ve taken care of your questions, our team will close the
+ticket to keep things organized. If you ever need help with something
+else in the future, you can simply start back at Step 1 to open a new
+ticket.
+
+
+The moderators and staff reserve the right to refuse to cater to:
+  ●​ inquiries that are unrelated or irrelevant to the campaign or
+       Atomik Clips in general
+  ●​ inappropriate requests
+  ●​ requests that are negative or hostile in nature (please be
+       respectful!)
+
+
+Please refrain from sending Direct Messages to the moderators.
+Instead, submit a support ticket to ensure visibility for the entire
+moderation team.
+
+
+To maintain a positive environment, any instance of unwelcome spam or
+disrespectful conduct on the Discord server will lead to a permanent
+ban.
+
+
+--- PDF PAGE BREAK ---
+
+FAQ
+For quick answers to common questions, our FAQ page is a great place
+to start. You might find exactly what you’re looking for in just a few
+clicks. To be redirected to our FAQ page, click here.
+
+
+--- PDF PAGE BREAK ---
+
