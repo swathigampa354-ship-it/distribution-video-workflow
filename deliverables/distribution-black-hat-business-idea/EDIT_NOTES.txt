@@ -1,0 +1,7 @@
+Distribution short edit
+
+Source: user-provided Filebin clip, “The Most Black Hat Business Idea Ive Ever Heard.mp4”.
+Edit: full exchange retained, trimmed to 18.9 seconds, portrait 1080x1920 at 30 fps, H.264/AAC.
+Composition: full-width source shot kept intact in the safe zone over a soft blurred fill made from the same footage. Captions are burned in and supplied separately as captions.srt. The safe-zone guide itself is not in the export.
+Audio: original dialogue retained and normalized. No synthetic speech or generated music. No B-roll added; this short works as a continuous A-roll exchange, and the B-roll share did not expose downloadable clip files through the available interface.
+Caption transcript was generated with local Whisper and checked across model outputs. “Prosumer Reddit post” and “once it gets indexed” are the best-fit wording from the available transcription; please review those phrases before social posting if exact wording is critical.
